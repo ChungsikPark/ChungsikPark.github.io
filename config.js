@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://github.com/ChungsikPark/ChungsikPark.github.io.git',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Chungsik',
+  subtitle: 'You Only Live Once.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,9 +25,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Chungsik Park',
+    photo: '/chuungsik.jpg',
+    bio: 'You Only Live Once',
     contacts: {
       email: '',
       facebook: '#',
