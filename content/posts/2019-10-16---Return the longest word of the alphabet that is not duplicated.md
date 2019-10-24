@@ -12,7 +12,7 @@ description: The function 'getLengthOfStr' takes str argument of type String. Re
 socialImage: "../../static/media/love_is.jpeg"
 ---
 
-<img src="../../static/media/love_is.jpeg>
+<img src="../../static/media/love_is.jpeg">
 
 * ### 문제
 
