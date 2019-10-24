@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 24 Oct 2019 15:15:20 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 24 Oct 2019 17:05:07 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -10,7 +10,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&quot;h1-h2-h3-h4-h5-h6&quot;&gt;&lt;a href=&quot;#h1-h2-h3-h4-h5-h6&quot; aria-label=&quot;h1 h2 h3 h4 h5 h6 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;h1, h2, h3, h4, h5, h6&lt;/h3&gt;
-&lt;p&gt;The &lt;h1&gt; to &lt;h6&gt; tags are used to define HTML headings. &lt;h1&gt; defines the most important heading. &lt;h6&gt; defines the least important heading.&lt;/p&gt;
+&lt;p&gt;The h1 to h6 tags are used to define HTML headings. h1 defines the most important heading. h6 defines the least important heading.&lt;/p&gt;
 &lt;p&gt;하루에도 수백만 개, 수천만 개의 새로운 정보가 생겨난다. 무언가를 검색했을 때, 검색 엔진 상단에 노출이 잘 되게끔 하는 것! 프론트엔드 개발자라면 중요하게 생각해야할 요소 중 하나이다. 브라우저에서는 가장 먼저 태그를 확인하고 그에 맞게 기본(default) 스타일을 적용한다. 하지만 해당 태그나 class, id에 CSS 값이 있다면 해당 스타일을 더 우선순위로 적용하게 된다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
@@ -28,41 +28,59 @@
 &lt;li&gt;
 &lt;h3 id=&quot;font-family&quot;&gt;&lt;a href=&quot;#font-family&quot; aria-label=&quot;font family permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;font family&lt;/h3&gt;
 &lt;p&gt;The font family property specifies the font for an element. The font family property can hold several font names as a “fallback” system. If the browser does not support the first font, it tries the next font.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;( #title {font-family: Georgia, “Times New Roman”, Times, serif;} )&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;( #title {font-family: Georgia, “Times New Roman”, Times, serif;} )&lt;/p&gt;
 &lt;p&gt;사용자가 어떤 브라우저를 사용할지 모르기 때문에 최대한 여러 폰트를 나열하는 것! 가장 뒤에 위치한 serif 같은 폰트는 모든 브라우저에서 지원하는 폰트를 적는다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&quot;margin-border-padding-css-box-model&quot;&gt;&lt;a href=&quot;#margin-border-padding-css-box-model&quot; aria-label=&quot;margin border padding css box model permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Margin, Border, Padding (CSS box model)&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/media/css_box_model.jpg&quot; alt=&quot;css_box_model.jpg&quot;&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/c6d2c/css_box_model.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 46.98412698412698%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABLElEQVQoz5WQz0vDMBzF96/qaFe7uk0nDrwLguBFvIjnqQe9dunPTdnWQ51XN2073NU1iSJCbVK/XbHrGAi+PL6Ql89LICWCSYgxeF3B1PcCHxOyfhTikFJawgQfOycikqt6varXii7fVMq3FcVYyRW9Lmry4eAoJGFalvXtU/es592pY4QmWubOBF051+3+pfrUWYZj1PV656OLDVWYk3mJEFI3d+/9fhInLGYwc/OIs68YZp6wb5aw5GE2EtFWVsY1c0efGCkN61ecc0rhQ/AyShYAS/r+YKVsPFvpxZzxgqKFihkAgA2CoZCXG1bT8uzoM4J3aEHvqT6KWwAAG04dSVPSMuwbZnOzI7a6B017f89u/WEAABOQJGnVt+zDRrNH88X6l91Xl1DyAyWstBJzGybFAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/01472/css_box_model.webp 240w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/222bd/css_box_model.webp 480w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/620b9/css_box_model.webp 960w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/efa4b/css_box_model.webp 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/0783d/css_box_model.png 240w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/782f4/css_box_model.png 480w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/f570d/css_box_model.png 960w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/c6d2c/css_box_model.png 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/f570d/css_box_model.png&quot; alt=&quot;css_box_model&quot; title=&quot;css_box_model&quot; loading=&quot;lazy&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
 &lt;li&gt;Content -&gt; The content of the box, where text and images appear&lt;/li&gt;
 &lt;li&gt;Padding -&gt; Clears an area around the content. The padding is transparent&lt;/li&gt;
 &lt;li&gt;Border -&gt; A border that goes around the padding and content&lt;/li&gt;
 &lt;li&gt;Margin -&gt; Clears an area outside the border. The margin is transparent&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;( {margin: 10px;} = { margin: 10px 10px 10px 10px;} = {margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;} / {위, 오, 아래, 왼} )&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;  밑줄을 쳐주는 스타일을 구현할 때! 자유롭게 원하는대로 커스터마이징을 위해서 ‘text-decoration: underline’ 대신에 ‘border-bottom’을 이용하면 밑줄의 두께나 색깔 등을 커스터마이징이 가능하다.&lt;/p&gt;
+&lt;p&gt;( {margin: 10px;} = { margin: 10px 10px 10px 10px;} = {위, 오, 아래, 왼} =
+{margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;})&lt;/p&gt;
+&lt;p&gt;밑줄을 쳐주는 스타일을 구현할 때! 자유롭게 원하는대로 커스터마이징을 위해서 ‘text-decoration: underline’ 대신에 ‘border-bottom’을 이용하면 밑줄의 두께나 색깔 등을 커스터마이징이 가능하다.&lt;/p&gt;
 &lt;hr&gt;
-&lt;ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&quot;css-selector&quot;&gt;&lt;a href=&quot;#css-selector&quot; aria-label=&quot;css selector permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CSS Selector&lt;/h3&gt;
-&lt;/li&gt;
+&lt;ul&gt;
 &lt;li&gt;p.p-tag {} -&gt; p 태그이면서, p-tag 클래스&lt;/li&gt;
 &lt;li&gt;p#third-line {} -&gt; p 태그이면서, third-line 아이디&lt;/li&gt;
 &lt;li&gt;.pre span {} -&gt; pre 클래스 안에 있는, span 태그&lt;/li&gt;
 &lt;li&gt;.a div .b .pre span {} -&gt; a 클래스 안에, div 태그 안에, b 클래스 안에, pre 클래스 안에 있는, span 태그&lt;/li&gt;
 &lt;li&gt;div .container li.first-list {} -&gt; div 태그 안에, container 클래스 안에, li 태그이면서, first-list 클래스&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;  Selector Priority : tag &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; class &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; id &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; inline css&lt;/p&gt;
-&lt;p&gt;  attribute인 placeholder를 css의 selector로 표현하기 위해서는 콜론 두개를 붙여서 selector를 만들어줄 수 있다. 하지만 attribute를 표현한다고 모두 콜론을 쓰는 것은 아니다.&lt;/p&gt;
+&lt;p&gt;Selector Priority : tag &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; class &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; id &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; inline css&lt;/p&gt;
+&lt;p&gt;attribute인 placeholder를 css의 selector로 표현하기 위해서는 콜론 두개를 붙여서 selector를 만들어줄 수 있다. 하지만 attribute를 표현한다고 모두 콜론을 쓰는 것은 아니다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;( input::placeholder {} )&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
-&lt;ul&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&quot;block-vs-inline&quot;&gt;&lt;a href=&quot;#block-vs-inline&quot; aria-label=&quot;block vs inline permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Block vs Inline&lt;/h3&gt;
-&lt;p&gt;Block 요소 예시 : &lt;header&gt;, &lt;footer&gt;, &lt;p&gt;, &lt;li&gt;, &lt;table&gt;, &lt;div&gt;, &lt;h1&gt; 등 대부분의 HTML element
-Inline 요소 예시 : &lt;span&gt;, &lt;a&gt;, &lt;img&gt; 등&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Block 요소 예시 : &lt;header&gt;, &lt;footer&gt;, &lt;p&gt;, &lt;li&gt;, &lt;table&gt;, &lt;div&gt;, &lt;h1&gt; 등 대부분의 HTML element&lt;/li&gt;
+&lt;li&gt;Inline 요소 예시 : &lt;span&gt;, &lt;a&gt;, &lt;img&gt; 등&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;CSS를 이용해서 Block 요소 성질을 가진 Inline 요소, Inline 요소 성질을 가진 Block 요소를 만들 수 있다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;.inline-p {display: inline-block;} inline 성질을 가진 p 태그
 .block-span {display: block;} block 성질을 가진 span 태그&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
@@ -70,21 +88,21 @@ Inline 요소 예시 : &lt;span&gt;, &lt;a&gt;, &lt;img&gt; 등&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;h3 id=&quot;the-position-property&quot;&gt;&lt;a href=&quot;#the-position-property&quot; aria-label=&quot;the position property permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The position property&lt;/h3&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;fixed :&lt;/p&gt;
-&lt;p&gt;An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element. A fixed element does not leave a gap in the page where it would normally have been located.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;fixed :
+An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element. A fixed element does not leave a gap in the page where it would normally have been located.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;페이지가 스크롤되더라도 늘 같은 곳에 위치하게끔 설정할 때 사용한다.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;relative :&lt;/p&gt;
-&lt;p&gt;An element with position: relative; is positioned relative to its normal position. Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.&lt;/p&gt;
-&lt;p&gt;상대 위치가 지정된 엘리먼트에 top이나 right, bottom, left를 지정하면 기본 위치와 다르게 위치가 조정된다. 다른 콘텐츠는 해당 엘리먼트에서 남긴 공백에 맞춰 들어가게끔 조정되지는 않는다.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;absolute :&lt;/p&gt;
-&lt;p&gt;An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.&lt;/p&gt;
-&lt;p&gt;가장 가까운 곳에 위치한 조상 엘리먼트에 상대적으로 위치가 조정된다는 점을 제외하면 fixed와 비슷하게 동작한다. 참고로 상대적으로 위치가 조정되게끔 지정된 엘리먼트는 position: static;인 경우를 제외하고 정해진다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;relative :
+An element with position: relative; is positioned relative to its normal position. Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 상대 위치가 지정된 엘리먼트에 top이나 right, bottom, left를 지정하면 기본 위치와 다르게 위치가 조정된다. 다른 콘텐츠는 해당 엘리먼트에서 남긴 공백에 맞춰 들어가게끔 조정되지는 않는다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;absolute :
+An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 가장 가까운 곳에 위치한 조상 엘리먼트에 상대적으로 위치가 조정된다는 점을 제외하면 fixed와 비슷하게 동작한다. 참고로 상대적으로 위치가 조정되게끔 지정된 엘리먼트는 position: static;인 경우를 제외하고 정해진다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
