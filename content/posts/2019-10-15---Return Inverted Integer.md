@@ -4,7 +4,7 @@ date: "Thu Oct 15 2019 12:00:00 GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/return_inverted_integer/"
-category: "Code Kata"
+category: "Algorithm"
 tags:
   - "javascript"
   - "algorithm"
@@ -84,8 +84,8 @@ socialImage: "/media/number_block.jpeg"
   };
   ```
 
-  console.log(reverse(1234));     //expected output :  4321</br>
-  console.log(reverse(1230));     //expected output :   321</br>
-  console.log(reverse(12300));    //expected output :   321</br>
-  console.log(reverse(0));        //expected output :     0</br>
-  console.log(reverse(-1234));    //expected output : -4321
+       console.log(reverse(1234));     //expected output :  4321</br>
+       console.log(reverse(1230));     //expected output :   321</br>
+       console.log(reverse(12300));    //expected output :   321</br>
+       console.log(reverse(0));        //expected output :     0</br>
+       console.log(reverse(-1234));    //expected output : -4321
