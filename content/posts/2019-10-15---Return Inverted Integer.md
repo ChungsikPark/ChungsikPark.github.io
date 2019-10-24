@@ -39,7 +39,7 @@ socialImage: "/media/number_block.jpeg"
   return: 321
   ```
 
-  \*\*\*
+  ***
 
 * ### 코드
 
@@ -84,8 +84,8 @@ socialImage: "/media/number_block.jpeg"
   };
   ```
 
-  console.log(reverse(1234));     //expected output :  4321
-  console.log(reverse(1230));     //expected output :   321
-  console.log(reverse(12300));    //expected output :   321
-  console.log(reverse(0));        //expected output :     0
+  console.log(reverse(1234));     //expected output :  4321</br>
+  console.log(reverse(1230));     //expected output :   321</br>
+  console.log(reverse(12300));    //expected output :   321</br>
+  console.log(reverse(0));        //expected output :     0</br>
   console.log(reverse(-1234));    //expected output : -4321
