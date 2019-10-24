@@ -12,8 +12,8 @@ description: A list of my commonly used Git commands
 socialImage: "/media/macbook_showing_programming_language.jpg"
 ---
 
-- [Tell Git who you are](#Tell-Git-who-you-are)
-- [Create repository](#Create-repository)
+- [Tell Git who you are](>#Tell-Git-who-you-are)
+- [Create repository](>#Create-repository)
 
 > # Tell Git who you are
 
