@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/git_commands/"
 category: "Git"
 tags:
-  - "git"
-  - "github"
+  - "GIT"
+  - "GITHUB"
 description: A list of my commonly used Git commands
-socialImage: "/media/macbook_showing_programming_language.jpg"
+socialImage: "../../static/media/macbook_showing_programming_language.jpg"
 ---
 
 > # Tell Git who you are

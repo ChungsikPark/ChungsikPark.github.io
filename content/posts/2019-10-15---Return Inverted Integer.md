@@ -6,10 +6,10 @@ draft: false
 slug: "/posts/return_inverted_integer/"
 category: "Algorithm"
 tags:
-  - "javascript"
-  - "algorithm"
+  - "JAVASCRIPT"
+  - "ALGORITHM"
 description: The function 'reverse' takes an integer number. Invert the number and return it.
-socialImage: "/media/number_block.jpeg"
+socialImage: "../../static/media/number_block.jpeg"
 ---
 
 <img src="../../static/media/number_block.jpeg">
@@ -19,7 +19,7 @@ socialImage: "/media/number_block.jpeg"
   reverse 함수에 정수인 숫자를 인자로 받습니다.
   그 숫자를 뒤집어서 return해주세요.
 
-  x: 숫자
+  x: 숫자</br>
   return: 뒤집어진 숫자를 반환!
 
   예를 들어,
