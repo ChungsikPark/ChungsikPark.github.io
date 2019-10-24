@@ -1,9 +1,9 @@
 ---
 title: Humane Typography in the Digital Age
-date: "Thu Oct 22 2019 16:39:40 GMT+0900"
+date: "Mon Sep 30 2019 12:00:00 GMT+0900"
 template: "post"
 draft: false
-slug: "/posts/git_command/"
+slug: "/posts/typo/"
 category: "Typography"
 tags:
   - "Git"

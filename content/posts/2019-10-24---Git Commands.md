@@ -1,13 +1,13 @@
 ---
 title: Git Commands
-date: "Thu Oct 24 2019 16:39:45 GMT+0900"
+date: "Thu Oct 24 2019 12:00:00 GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/git_commands/"
 category: "Git"
 tags:
-  - "Git"
-  - "Web Development"
+  - "git"
+  - "github"
 description: A list of my commonly used Git commands
 socialImage: "/media/macbook_showing_programming_language.jpg"
 ---
