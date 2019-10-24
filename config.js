@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://github.com/ChungsikPark/ChungsikPark.github.io.git',
   pathPrefix: '/',
   title: 'Blog by Chungsik',
-  subtitle: 'You Only Live Once.',
+  subtitle: 'You Only Live Once',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,

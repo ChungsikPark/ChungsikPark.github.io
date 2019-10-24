@@ -1,6 +1,6 @@
 ---
 title: Humane Typography in the Digital Age
-date: "Mon Sep 30 2019 12:00:00 GMT+0900"
+date: "Sun Sep 30 2018 12:00:00 GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/typo/"
