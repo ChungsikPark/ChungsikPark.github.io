@@ -1,13 +1,12 @@
 ---
 title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+date: "Thu Oct 22 2019 16:39:40 GMT+0900"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
+slug: "/posts/git_command/"
 category: "Typography"
 tags:
-  - "Design"
-  - "Typography"
+  - "Git"
   - "Web Development"
 description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
 socialImage: "/media/42-line-bible.jpg"
