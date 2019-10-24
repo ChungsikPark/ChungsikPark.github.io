@@ -41,7 +41,7 @@ socialImage: "../../static/media/number_block.jpeg"
 
   ***
 
-* ### 코드
+* ### 나의 코드
 
   + Solution 1
   ```

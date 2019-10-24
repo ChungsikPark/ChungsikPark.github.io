@@ -43,7 +43,7 @@ socialImage: "../../static/media/love_is.jpeg"
 
   ***
 
-* ### 코드
+* ### 나의 코드
 
   + Solution
   ```
