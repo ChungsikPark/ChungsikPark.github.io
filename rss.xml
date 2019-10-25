@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Oct 2019 07:47:20 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Oct 2019 08:24:46 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -334,6 +334,66 @@ git grep --count &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 git grep --show-function &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
 &lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return a common prefix]]></title><description><![CDATA[The function 'getPrefix' takes strs, an array of words. Return a common prefix.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</guid><pubDate>Fri, 18 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/36a65/its_simple.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.71428571428571%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd71NmsQH//EABgQAQADAQAAAAAAAAAAAAAAAAEAAhAR/9oACAEBAAEFAle41LQAJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAABAhAAERMaH/2gAIAQEABj8C10usxD//xAAaEAEAAwADAAAAAAAAAAAAAAABABExEEFx/9oACAEBAAE/IRAAneJcuZ36laAHH//aAAwDAQACAAMAAAAQz+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFhgf/aAAgBAQABPxB1A2RTx3EJYidYJCkFWJyLq6Mf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/01472/its_simple.webp 240w,
+/static/0a91eac8a0156e7588b3c952c35f3662/222bd/its_simple.webp 480w,
+/static/0a91eac8a0156e7588b3c952c35f3662/620b9/its_simple.webp 960w,
+/static/0a91eac8a0156e7588b3c952c35f3662/28063/its_simple.webp 1440w,
+/static/0a91eac8a0156e7588b3c952c35f3662/34ef4/its_simple.webp 1920w,
+/static/0a91eac8a0156e7588b3c952c35f3662/0ff3f/its_simple.webp 2100w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/3bc27/its_simple.jpg 240w,
+/static/0a91eac8a0156e7588b3c952c35f3662/98431/its_simple.jpg 480w,
+/static/0a91eac8a0156e7588b3c952c35f3662/b3ee8/its_simple.jpg 960w,
+/static/0a91eac8a0156e7588b3c952c35f3662/b97fe/its_simple.jpg 1440w,
+/static/0a91eac8a0156e7588b3c952c35f3662/fb329/its_simple.jpg 1920w,
+/static/0a91eac8a0156e7588b3c952c35f3662/36a65/its_simple.jpg 2100w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/b3ee8/its_simple.jpg&quot; alt=&quot;its simple&quot; title=&quot;its simple&quot; loading=&quot;lazy&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;strs은 단어가 담긴 배열입니다. 공통된 시작 단어(prefix)를 반환해주세요.&lt;/p&gt;
+&lt;p&gt;예를 들어,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;strs = [&amp;quot;start&amp;quot;, &amp;quot;stair&amp;quot;, &amp;quot;step&amp;quot;]
+return은 &amp;quot;st&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;strs = [&amp;quot;start&amp;quot;, &amp;quot;wework&amp;quot;, &amp;quot;today&amp;quot;]
+return은 &amp;quot;&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Solution&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const getPrefix = strs =&amp;gt; {
+let commonPrefix = &amp;#39;&amp;#39;;
+if (strs.length &amp;gt; 0) {
+commonPrefix = strs[0];
+for (let i = 1; i &amp;lt; strs.length; i++) {
+for (let j = 0; j &amp;lt; commonPrefix.length; j++) {
+  if (strs[i][j] !== commonPrefix[j]) {
+    commonPrefix = commonPrefix.slice(0, j);
+    break;
+  }
+}
+}
+}
+return commonPrefix;
+};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;console.log(getPrefix([“start”, “wework”, “today”]));&lt;/br&gt;
+//expected output : &quot;&quot;&lt;/br&gt;
+console.log(getPrefix([“start”, “stair”, “step”]));&lt;/br&gt;
+//expected output : “st”&lt;/br&gt;
+console.log(getPrefix([“start”, “stair”, “step”, “strite”, “store”, “sacrifice”]));&lt;/br&gt;
+//expected output : “s”&lt;/br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return whether the flipped shape is the same as num]]></title><description><![CDATA[The function 'samereverse' takes num of type Number. Return whether the flipped shape is the same as num.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</guid><pubDate>Thu, 17 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/524aea755b4916fd428abc5a58a170e1/4b954/b21.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGT4ncKEAU//8QAGRABAAMBAQAAAAAAAAAAAAAAAQIREgAh/9oACAEBAAEFAjNVHpIJLzba2//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8BeqI//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/AcV//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEREBIhIjL/2gAIAQEABj8C4QtVkixEUk//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhMXFBUbH/2gAIAQEAAT8hml6ia0Umw/4Ox6Co+i6cn//aAAwDAQACAAMAAAAQBz//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/EFwk4bf/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EAzA3l//xAAeEAACAgICAwAAAAAAAAAAAAABEQAhMXFBUWGh4f/aAAgBAQABPxAi1F57biBMsKnuAYXC/qcvAp3FBgMEMXuoQ1ByU//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -523,14 +583,14 @@ return: 321&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;li&gt;
 &lt;p&gt;Solution 1&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const reverse = x =&amp;gt; {
-&amp;#39;&amp;amp;nbsp;if (x &amp;lt; 0) {
-&amp;#39;&amp;amp;nbsp;&amp;#39;&amp;amp;nbsp;return -reverse(-x);
-&amp;#39;&amp;amp;nbsp;}
-&amp;#39;&amp;amp;nbsp;let strX = String(x);
-&amp;#39;&amp;amp;nbsp;let strXArr = strX.split(&amp;quot;&amp;quot;);
-&amp;#39;&amp;amp;nbsp;let revStrXArr = strXArr.reverse();
-&amp;#39;&amp;amp;nbsp;let revX = revStrXArr.join(&amp;quot;&amp;quot;);
-&amp;#39;&amp;amp;nbsp;return Number(revX);
+if (x &amp;lt; 0) {
+return -reverse(-x);
+}
+let strX = String(x);
+let strXArr = strX.split(&amp;quot;&amp;quot;);
+let revStrXArr = strXArr.reverse();
+let revX = revStrXArr.join(&amp;quot;&amp;quot;);
+return Number(revX);
 };&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;
