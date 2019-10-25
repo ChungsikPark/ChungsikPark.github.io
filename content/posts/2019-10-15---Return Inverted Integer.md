@@ -46,14 +46,14 @@ socialImage: "../../static/media/number_block.jpeg"
   + Solution 1
   ```
   const reverse = x => {
-    if (x < 0) {
-      return -reverse(-x);
-    }
-    let strX = String(x);
-    let strXArr = strX.split("");
-    let revStrXArr = strXArr.reverse();
-    let revX = revStrXArr.join("");
-    return Number(revX);
+  '&nbsp;if (x < 0) {
+  '&nbsp;'&nbsp;return -reverse(-x);
+  '&nbsp;}
+  '&nbsp;let strX = String(x);
+  '&nbsp;let strXArr = strX.split("");
+  '&nbsp;let revStrXArr = strXArr.reverse();
+  '&nbsp;let revX = revStrXArr.join("");
+  '&nbsp;return Number(revX);
   };
   ```
 
