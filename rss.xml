@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 25 Oct 2019 08:24:46 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 03 Nov 2019 14:58:15 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -117,6 +117,128 @@ An element with position: absolute; is positioned relative to the nearest positi
 &lt;p&gt;The float property specifies how an element should float.&lt;/p&gt;
 &lt;p&gt;float은 이미지 주위를 텍스트로 감싸기 위해 만들어진 것이다. 포지션이 절대적인 경우에는 float을 무시한다. float요소를 사용할 경우 그 다음 요소는 float요소 위에 뜨게 된다. 이 경우에는 clear속성 또는 clearfix 핵을 사용하면 된다. 예시로 .box {clear: left;}를 할 경우 box 클래스를 가진 엘리먼트 왼쪽은 비워준다.&lt;/p&gt;
 &lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/e1877/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/01472/move_zero.webp 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/222bd/move_zero.webp 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/620b9/move_zero.webp 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/28063/move_zero.webp 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/34ef4/move_zero.webp 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/7140d/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/3bc27/move_zero.jpg 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/98431/move_zero.jpg 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/b3ee8/move_zero.jpg 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/b97fe/move_zero.jpg 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/fb329/move_zero.jpg 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/e1877/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/b3ee8/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;주어진 숫자 배열에서, 0을 배열의 마지막쪽으로 이동시켜주세요.
+원래 있던 숫자의 순서는 바꾸지 말아주세요.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0,1,0,3,12]
+Output: [1,3,12,0,0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Solution&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
+nums.sort(function(a,b) {
+if (a === 0 &amp;amp;&amp;amp; b !== 0) {
+return 1;
+} else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
+return -1;
+} else {
+return 0;
+}
+});
+return nums;
+};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;console.log(moveZeroes([0,1,0,3,12]));&lt;/br&gt;
+//expected output : [ 1, 3, 12, 0, 0 ]&lt;/br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the smallest sum of elements along the way]]></title><description><![CDATA[The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</guid><pubDate>Wed, 30 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/16f13/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.26626998884344%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdqNEizo/8QAGRABAAMBAQAAAAAAAAAAAAAAAQIRIQAQ/9oACAEBAAEFAgrxNitPSd//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hUmImeix2BnB16f/aAAwDAQACAAMAAAAQdP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxgf/aAAgBAQABPxAbRCtF7Ma8r2cogssTsn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/01472/parking_grid.webp 240w,
+/static/31b76f868ce321406c412aba00fc60d7/222bd/parking_grid.webp 480w,
+/static/31b76f868ce321406c412aba00fc60d7/620b9/parking_grid.webp 960w,
+/static/31b76f868ce321406c412aba00fc60d7/28063/parking_grid.webp 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/34ef4/parking_grid.webp 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/03106/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/3bc27/parking_grid.jpg 240w,
+/static/31b76f868ce321406c412aba00fc60d7/98431/parking_grid.jpg 480w,
+/static/31b76f868ce321406c412aba00fc60d7/b3ee8/parking_grid.jpg 960w,
+/static/31b76f868ce321406c412aba00fc60d7/b97fe/parking_grid.jpg 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/fb329/parking_grid.jpg 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/16f13/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/b3ee8/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;양수로 이루어진 m x n 그리드를 인자로 드립니다.
+상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,
+가장 작은 합을 찾아서 return 해주세요.&lt;/p&gt;
+&lt;p&gt;한 지점에서 우측이나 아래로만 이동할 수 있습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input:
+[
+[1,3,1],
+[1,5,1],
+[4,2,1]
+]
+
+Output: 7
+
+설명: 1→3→1→1→1 의 합이 제일 작음&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Solution&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const minPathSum = grid =&amp;gt; {
+let m = grid[0].length;
+let n = grid.length;
+if (!m || !n) {
+return 0;
+}
+for (let i = 1; i &amp;lt; n; i++) {
+grid[i][0] += grid[i - 1][0];
+}
+for (let j = 1; j &amp;lt; m; j++) {
+grid[0][j] += grid[0][j - 1];
+}
+for (let i = 1; i &amp;lt; n; i++) {
+for (let j = 1; j &amp;lt; m; j++) {
+grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j], grid[i][j - 1] + grid[i][j]);
+}
+}
+return grid[n - 1][m - 1];
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;console.log(minPathSum([[1,3,1],[1,5,1],[4,2,1]];));;&lt;/br&gt;
+//expected output : 7&lt;/br&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Commands]]></title><description><![CDATA[A list of my commonly used Git commands]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</guid><pubDate>Thu, 24 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;tell-git-who-you-are&quot;&gt;&lt;a href=&quot;#tell-git-who-you-are&quot; aria-label=&quot;tell git who you are permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tell Git who you are&lt;/h1&gt;
