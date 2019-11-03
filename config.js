@@ -30,9 +30,9 @@ module.exports = {
     bio: 'You Only Live Once',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
       github: '#',
       rss: '',
       vkontakte: '',
