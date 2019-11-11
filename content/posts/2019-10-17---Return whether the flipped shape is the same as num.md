@@ -14,7 +14,7 @@ socialImage: "../../static/media/b21.jpeg"
 
 <img src="../../static/media/b21.jpeg">
 
-* ### 문제
+- ### 문제
 
   숫자인 num을 인자로 넘겨주면, 뒤집은 모양이 num과 똑같은지 여부를 반환해주세요.
 
@@ -25,33 +25,34 @@ socialImage: "../../static/media/b21.jpeg"
 
   ```
   num = 123
-  return false 
+  return false
   => 뒤집은 모양이 321 이기 때문
   ```
 
   ```
   num = 1221
-  return true 
+  return true
   => 뒤집은 모양이 1221 이기 때문
   ```
 
   ```
   num = -121
-  return false 
+  return false
   => 뒤집은 모양이 121- 이기 때문
   ```
 
   ```
   num = 10
-  return false 
+  return false
   => 뒤집은 모양이 01 이기 때문
   ```
 
   ***
 
-* ### 나의 코드
+- ### 나의 코드
 
-  + Solution 1
+  - Solution 1
+
   ```
   const sameReverse = num => {
     let strN = String(num);
@@ -62,7 +63,8 @@ socialImage: "../../static/media/b21.jpeg"
   }
   ```
 
-  + Solution 2
+  - Solution 2
+
   ```
   const sameReverse = num => {
     let revNum = Array.from(String(num)).reverse().join("");

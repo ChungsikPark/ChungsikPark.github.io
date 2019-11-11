@@ -14,7 +14,7 @@ socialImage: "../../static/media/love_is.jpeg"
 
 <img src="../../static/media/love_is.jpeg">
 
-* ### 문제
+- ### 문제
 
   String 형인 str 인자에서 중복되지 않은 알파벳으로 이루어진 제일 긴 단어의 길이를 반환해주세요.
 
@@ -43,9 +43,10 @@ socialImage: "../../static/media/love_is.jpeg"
 
   ***
 
-* ### 나의 코드
+- ### 나의 코드
 
-  + Solution
+  - Solution
+
   ```
   const getLengthOfStr = str => {
     let maxLength = 0;
@@ -61,7 +62,7 @@ socialImage: "../../static/media/love_is.jpeg"
         } else {
           break;
         }
-      } 
+      }
     }
     return maxLength;
   };

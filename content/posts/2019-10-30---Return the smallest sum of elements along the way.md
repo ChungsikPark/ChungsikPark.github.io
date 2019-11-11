@@ -14,7 +14,7 @@ socialImage: "../../static/media/parking_grid.jpeg"
 
 <img src="../../static/media/parking_grid.jpeg">
 
-* ### 문제
+- ### 문제
 
   양수로 이루어진 m x n 그리드를 인자로 드립니다.
   상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,
@@ -37,9 +37,10 @@ socialImage: "../../static/media/parking_grid.jpeg"
 
   ***
 
-* ### 나의 코드
+- ### 나의 코드
 
-  + Solution
+  - Solution
+
   ```
   const minPathSum = grid => {
     let m = grid[0].length;

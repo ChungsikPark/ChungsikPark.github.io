@@ -14,7 +14,7 @@ socialImage: "../../static/media/number_block.jpeg"
 
 <img src="../../static/media/number_block.jpeg">
 
-* ### 문제
+- ### 문제
 
   reverse 함수에 정수인 숫자를 인자로 받습니다.
   그 숫자를 뒤집어서 return해주세요.
@@ -41,9 +41,10 @@ socialImage: "../../static/media/number_block.jpeg"
 
   ***
 
-* ### 나의 코드
+- ### 나의 코드
 
-  + Solution 1
+  - Solution 1
+
   ```
   const reverse = x => {
     if (x < 0) {
@@ -57,7 +58,8 @@ socialImage: "../../static/media/number_block.jpeg"
   };
   ```
 
-  + Solution 2
+  - Solution 2
+
   ```
   const reverse = x => {
     let nX = Math.abs(x);
@@ -70,14 +72,16 @@ socialImage: "../../static/media/number_block.jpeg"
   };
   ```
 
-  + Solution 3
+  - Solution 3
+
   ```
   const reverse = x => {
     return Number(Math.abs(x).toString().split("").reverse().join("")) * Math.sign(x);
   };
   ```
 
-  + Solution 4
+  - Solution 4
+
   ```
   const reverse = x => {
     return Number(Array.from(Math.abs(x).toString()).reverse().join("")) * Math.sign(x);

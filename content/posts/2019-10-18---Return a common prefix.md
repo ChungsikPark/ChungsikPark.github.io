@@ -14,7 +14,7 @@ socialImage: "../../static/media/its_simple.jpeg"
 
 <img src="../../static/media/its_simple.jpeg">
 
-* ### 문제
+- ### 문제
 
   strs은 단어가 담긴 배열입니다. 공통된 시작 단어(prefix)를 반환해주세요.
 
@@ -32,9 +32,10 @@ socialImage: "../../static/media/its_simple.jpeg"
 
   ***
 
-* ### 나의 코드
+- ### 나의 코드
 
-  + Solution
+  - Solution
+
   ```
   const getPrefix = strs => {
     let commonPrefix = '';
