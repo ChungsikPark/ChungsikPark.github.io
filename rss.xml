@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 15:25:03 GMT</lastBuildDate><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 16:24:36 GMT</lastBuildDate><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -778,7 +778,89 @@ An element with position: absolute; is positioned relative to the nearest positi
 &lt;p&gt;float은 이미지 주위를 텍스트로 감싸기 위해 만들어진 것이다. 포지션이 절대적인 경우에는 float을 무시한다. float요소를 사용할 경우 그 다음 요소는 float요소 위에 뜨게 된다. 이 경우에는 clear속성 또는 clearfix 핵을 사용하면 된다. 예시로 .box {clear: left;}를 할 경우 box 클래스를 가진 엘리먼트 왼쪽은 비워준다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 01:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Synchronous and Asynchronous]]></title><description><![CDATA[The difference between synchronous and asynchronous.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/synchronous_and_asynchronous/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/synchronous_and_asynchronous/</guid><pubDate>Thu, 07 Nov 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/e075bee6dfcc71a33568cd0ef7b6f61c/b89a9/synchronous_asynchronous.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEC/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAdouA//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABkQAAEFAAAAAAAAAAAAAAAAAAABESAxcf/aAAgBAQABPyFtEqP/2gAMAwEAAgADAAAAEM8//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARMSBhkf/aAAgBAQABPxACX62AVq9RKeH/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/e075bee6dfcc71a33568cd0ef7b6f61c/8ac56/synchronous_asynchronous.webp 240w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/d3be9/synchronous_asynchronous.webp 480w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/e46b2/synchronous_asynchronous.webp 960w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/f992d/synchronous_asynchronous.webp 1440w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/882b9/synchronous_asynchronous.webp 1920w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/e075bee6dfcc71a33568cd0ef7b6f61c/5a194/synchronous_asynchronous.jpg 240w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/8a430/synchronous_asynchronous.jpg 480w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/0781d/synchronous_asynchronous.jpg 960w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/e5be1/synchronous_asynchronous.jpg 1440w,
+/static/e075bee6dfcc71a33568cd0ef7b6f61c/b89a9/synchronous_asynchronous.jpg 1920w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/e075bee6dfcc71a33568cd0ef7b6f61c/0781d/synchronous_asynchronous.jpg&quot; alt=&quot;synchronous asynchronous&quot; title=&quot;synchronous asynchronous&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;p&gt;동기와 비동기의 차이는 요청과 응답이 이루어지는 시간대의 차이로 구분할 수 있다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;동기 =&gt; 요청을 하는 시기 === 응답을 하는 시기&lt;/p&gt;
+&lt;p&gt;요청이 이루어진 후에 응답이 끝날 때까지 코드의 연산을 멈춘다.
+완전히 응답을 받고 나면 다시 요청이 이루어진다.
+요청과 응답이 동시에 이루어져야 한다.
+응답까지 대기시간이 필요할 수 있다.
+설계가 매우 간단하고 직관적이다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;비동기 =&gt; 요청한 내용은 언젠가 응답해 줄 것이라는 약속&lt;/p&gt;
+&lt;p&gt;요청과 응답이 동시에 이루어질 필요가 없다.
+요청과 응답이 다른 시간대에 존재하기 때문에, 요청에 대한 응답이 구지 바로 이루어질 필요가 없다.
+응답까지 시간이 걸리더라도 그 사이에 다른 작업이 가능하다.
+요청과 응답의 결합이 자유롭기 때문에, 프로그램이 응답을 위한 대기하지 않고 다음 로직을 수행한다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;동기의 예1)
+&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/fb2d1d20-0ec7-11ea-b9b6-db6f75ab0b59/cats.jpg&quot; alt=&quot;cats.jpg&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;A는 B에게 10,000원 입금 예정&lt;/li&gt;
+&lt;li&gt;A는 B에게 10,000원 송금&lt;/li&gt;
+&lt;li&gt;B는 10,000원 입금 인지&lt;/li&gt;
+&lt;li&gt;A에게 10,000원 입금 인지 알림&lt;/li&gt;
+&lt;li&gt;A와 B 각각 차감과 증가가 동시에 발생&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;  --- 서로의 응답과 요청을 1~4 확인한 후, 같은 일 동시에 진행(5번) ---&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;동기의 예2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/4c59fd10-0eca-11ea-aed4-753bac4a5f07/-2019-11-24-11.52.41.png&quot; alt=&quot;스크린샷 2019-11-24 오후 11.52.41.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;코드가 위에서부터 아래로
+1st
+2nd
+3rd
+4th
+5th
+차례대로 찍힌다. 하나가 끝나면 다음 코드가 실행되는 방식.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;비동기의 예1)
+&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/a12201f0-0ec8-11ea-974e-9b2d01a9a549/cats-1.jpg&quot; alt=&quot;cats (1).jpg&quot;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;학생 시험문제 풀이&lt;/li&gt;
+&lt;li&gt;시험문제를 모두 푼 학생 선생님에게 전송&lt;/li&gt;
+&lt;li&gt;선생은 학생의 시험지를 채점&lt;/li&gt;
+&lt;li&gt;채점이 다 된 시험지를 학생에게 전송&lt;/li&gt;
+&lt;li&gt;학생은 선생이 전송한 시험지를 받아 결과 확인&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;  --- 학생은 시험지 풀이, 선생은 채점, 서로의 목적이 다르므로 작업처리시간 일치 불필요 ---&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;비동기의 예2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/bb033bd0-0ecc-11ea-a710-73066240b450/-2019-11-24-11.53.07.png&quot; alt=&quot;스크린샷 2019-11-24 오후 11.53.07.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;setTimeout() 메소드를 사용했다. 첫번째 인자는 콜백함수, 두번째 인자는 지연시간이다.
+두번째 인자가 0이니까 과연 바로 실행될 것인가. 아니다.
+1st
+3rd
+4th
+5th
+2nd
+순서로 찍힌다. setTimeout()은 비동기적 메소드이기 때문에, 동기적 코드 반환 완료 후 반환.&lt;/p&gt;
+&lt;p&gt;자바스크립트에서 비동기 처리가 필요한 이유를 생각해보자.
+화면에서 서버로 데이터를 요청했을 때 서버가 언제 그 요청에 대한 응답을 줄지도 모르는데 마냥 다른 코드를 실행 안 하고 기다릴 순 없다. 만약 100개의 요청을 보낸다고 생각해보자. 비동기 처리가 아니고 동기 처리라면 코드 실행하고 기다리고, 실행하고 기다리고… 아마 웹 애플리케이션을 실행하는데 수십 분은 걸릴 것이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 01:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
