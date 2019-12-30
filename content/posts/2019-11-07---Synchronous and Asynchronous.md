@@ -1,6 +1,6 @@
 ---
 title: Synchronous and Asynchronous
-date: "Thu Nov 07 2019 10:00:00 GMT+0900"
+date: "Thu Nov 7 2019 10:00:00 GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/synchronous_and_asynchronous/"
