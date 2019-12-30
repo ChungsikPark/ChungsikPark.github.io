@@ -1,247 +1,122 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 15:03:30 GMT</lastBuildDate><item><title><![CDATA[TIL (191001) t]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 03:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#chasing-perfection&quot;&gt;Chasing perfection&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.&lt;/p&gt;
-&lt;p&gt;The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.&lt;/p&gt;
-&lt;p&gt;But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.&lt;/p&gt;
-&lt;h2 id=&quot;the-first-transition&quot;&gt;&lt;a href=&quot;#the-first-transition&quot; aria-label=&quot;the first transition permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first transition&lt;/h2&gt;
-&lt;p&gt;A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.&lt;/p&gt;
-&lt;p&gt;The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG9hSrMxf/EABoQAAICAwAAAAAAAAAAAAAAAAACARIQETH/2gAIAQEAAQUC4XYi2NqLZo//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARFBAhBx/9oACAEBAAY/AlqhSWSsoXD/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRYZH/2gAIAQEAAT8hbFV3ACrcETOK6tmKVsdRp+YPKwn/2gAMAwEAAgADAAAAEH/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EKyP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEAAgMAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QUSVSDzkUkLU7uPEbsWpO9e3AkarliEANePcMDTSBSa5uf//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 15:25:03 GMT</lastBuildDate><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/8ac56/42-line-bible.webp 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/d3be9/42-line-bible.webp 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/d00b9/42-line-bible.webp 800w&quot;
-          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/5a194/42-line-bible.jpg 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/8a430/42-line-bible.jpg 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg 800w&quot;
-          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
-          alt=&quot;42-line-bible.jpg&quot;
-          title=&quot;42-line-bible.jpg&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The 42–Line Bible, printed by Gutenberg.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.&lt;/p&gt;
-&lt;h2 id=&quot;the-digital-age&quot;&gt;&lt;a href=&quot;#the-digital-age&quot; aria-label=&quot;the digital age permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The digital age&lt;/h2&gt;
-&lt;p&gt;The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.&lt;/p&gt;
-&lt;p&gt;— Massimo Vignelli&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.&lt;/p&gt;
-&lt;h2 id=&quot;loss-of-humanity-through-transitions&quot;&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot; aria-label=&quot;loss of humanity through transitions permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Loss of humanity through transitions&lt;/h2&gt;
-&lt;p&gt;Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.&lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Josef Mueller-Brockmann&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;p&gt;Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.&lt;/p&gt;
-&lt;p&gt;— Eric Gill&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtoJaRR//xAAWEAEBAQAAAAAAAAAAAAAAAAAAAjH/2gAIAQEAAQUClOv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAYEAACAwAAAAAAAAAAAAAAAAABIQAQUf/aAAgBAQABPyEi2Zsr/9oADAMBAAIAAwAAABAID//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARQSEx/9oACAEBAAE/EAerusaDZp1lz//Z&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/8ac56/type-through-time.webp 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/d3be9/type-through-time.webp 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/e46b2/type-through-time.webp 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/e19c7/type-through-time.webp 1250w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/5a194/type-through-time.jpg 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/8a430/type-through-time.jpg 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg 1250w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg&quot;
-          alt=&quot;type-through-time.jpg&quot;
-          title=&quot;type-through-time.jpg&quot;
-          loading=&quot;lazy&quot;
-          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Type through 5 centuries.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.&lt;/p&gt;
-&lt;h2 id=&quot;chasing-perfection&quot;&gt;&lt;a href=&quot;#chasing-perfection&quot; aria-label=&quot;chasing perfection permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Chasing perfection&lt;/h2&gt;
-&lt;p&gt;Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&quot;http://matejlatin.co.uk/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Matej Latin&lt;/a&gt; on &lt;a href=&quot;https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[TIL (191001)]]></title><description><![CDATA[Today I Learned (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
-&lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;meta-charsetutf-8&quot;&gt;&lt;a href=&quot;#meta-charsetutf-8&quot; aria-label=&quot;meta charsetutf 8 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;meta charset=”utf-8”&lt;/h3&gt;
-&lt;p&gt;A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any character in the Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferred encoding for e-mail and web pages.&lt;/p&gt;
-&lt;p&gt;컴퓨터는 언어를 숫자로 표현한다. 웹페이지에 영어가 아닌 언어가 쓰일 때 (예: 한국어, 중국어, 일본어) HTML 파일에 써줘야 하는 것! 이는 유니코드를 표현하는 인코딩 방식 중에 하나다. 웹페이지가 저장한 문자 표현 방식과 웹브라우저가 웹페이지를 해석하는 방법이 일치하지 않으면 이상한 문자를 표시한다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;h1-h2-h3-h4-h5-h6&quot;&gt;&lt;a href=&quot;#h1-h2-h3-h4-h5-h6&quot; aria-label=&quot;h1 h2 h3 h4 h5 h6 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;h1, h2, h3, h4, h5, h6&lt;/h3&gt;
-&lt;p&gt;The h1 to h6 tags are used to define HTML headings. h1 defines the most important heading. h6 defines the least important heading.&lt;/p&gt;
-&lt;p&gt;하루에도 수백만 개, 수천만 개의 새로운 정보가 생겨난다. 무언가를 검색했을 때, 검색 엔진 상단에 노출이 잘 되게끔 하는 것! 프론트엔드 개발자라면 중요하게 생각해야할 요소 중 하나이다. 브라우저에서는 가장 먼저 태그를 확인하고 그에 맞게 기본(default) 스타일을 적용한다. 하지만 해당 태그나 class, id에 CSS 값이 있다면 해당 스타일을 더 우선순위로 적용하게 된다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;non-breaking-space&quot;&gt;&lt;a href=&quot;#non-breaking-space&quot; aria-label=&quot;non breaking space permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;  (Non-breaking Space)&lt;/h3&gt;
-&lt;p&gt;A non-breaking space is a space that will not break into a new line. Two words separated by a non-breaking space will stick together (not break into a new line). This is handy when breaking the words might be disruptive.&lt;/p&gt;
-&lt;p&gt;자바스크립트에서는 스페이스바를 아무리 연속해서 써도 한번 밖에 적용되지 않는다. 이를 해결할 수 있는 것이 바로 이것이다. 스페이스바를 의미하는 코드라고 생각하면 된다. 예를 들어서 들여쓰기를 할 때 ‘  ’ 이렇게 연달아 입력하면 된다. 참고로 들여쓰기는 CSS에서 text-indent 프로퍼티를 사용해서도 가능하다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;h1 id=&quot;css-cascading-style-sheets&quot;&gt;&lt;a href=&quot;#css-cascading-style-sheets&quot; aria-label=&quot;css cascading style sheets permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CSS (Cascading Style Sheets)&lt;/h1&gt;
-&lt;/blockquote&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;font-family&quot;&gt;&lt;a href=&quot;#font-family&quot; aria-label=&quot;font family permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;font family&lt;/h3&gt;
-&lt;p&gt;The font family property specifies the font for an element. The font family property can hold several font names as a “fallback” system. If the browser does not support the first font, it tries the next font.&lt;/p&gt;
-&lt;p&gt;( #title {font-family: Georgia, “Times New Roman”, Times, serif;} )&lt;/p&gt;
-&lt;p&gt;사용자가 어떤 브라우저를 사용할지 모르기 때문에 최대한 여러 폰트를 나열하는 것! 가장 뒤에 위치한 serif 같은 폰트는 모든 브라우저에서 지원하는 폰트를 적는다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;margin-border-padding-css-box-model&quot;&gt;&lt;a href=&quot;#margin-border-padding-css-box-model&quot; aria-label=&quot;margin border padding css box model permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Margin, Border, Padding (CSS box model)&lt;/h3&gt;
-&lt;br&gt;
-&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e7427/css_box_model.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 46.98412698412698%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABLElEQVQoz5WQz0vDMBzF96/qaFe7uk0nDrwLguBFvIjnqQe9dunPTdnWQ51XN2073NU1iSJCbVK/XbHrGAi+PL6Ql89LICWCSYgxeF3B1PcCHxOyfhTikFJawgQfOycikqt6varXii7fVMq3FcVYyRW9Lmry4eAoJGFalvXtU/es592pY4QmWubOBF051+3+pfrUWYZj1PV656OLDVWYk3mJEFI3d+/9fhInLGYwc/OIs68YZp6wb5aw5GE2EtFWVsY1c0efGCkN61ecc0rhQ/AyShYAS/r+YKVsPFvpxZzxgqKFihkAgA2CoZCXG1bT8uzoM4J3aEHvqT6KWwAAG04dSVPSMuwbZnOzI7a6B017f89u/WEAABOQJGnVt+zDRrNH88X6l91Xl1DyAyWstBJzGybFAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/8ac56/css_box_model.webp 240w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/d3be9/css_box_model.webp 480w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e46b2/css_box_model.webp 960w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/4ef06/css_box_model.webp 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e4891/css_box_model.png 240w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/0ce91/css_box_model.png 480w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/b7c40/css_box_model.png 960w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e7427/css_box_model.png 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/b7c40/css_box_model.png&quot; alt=&quot;css_box_model&quot; title=&quot;css_box_model&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/8ac56/move_zero.webp 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/d3be9/move_zero.webp 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/e46b2/move_zero.webp 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/f992d/move_zero.webp 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/882b9/move_zero.webp 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/2339f/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5a194/move_zero.jpg 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/8a430/move_zero.jpg 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/e5be1/move_zero.jpg 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/b89a9/move_zero.jpg 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-&lt;br&gt;
-* Content -&amp;gt; The content of the box, where text and images appear&lt;br&gt;
-* Padding -&amp;gt; Clears an area around the content. The padding is transparent&lt;br&gt;
-* Border -&amp;gt; A border that goes around the padding and content&lt;br&gt;
-* Margin -&amp;gt; Clears an area outside the border. The margin is transparent&lt;br&gt;
-&lt;p&gt;( {margin: 10px;} = { margin: 10px 10px 10px 10px;} = {위, 오, 아래, 왼} =
-{margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;})&lt;/p&gt;
-&lt;p&gt;밑줄을 쳐주는 스타일을 구현할 때! 자유롭게 원하는대로 커스터마이징을 위해서 ‘text-decoration: underline’ 대신에 ‘border-bottom’을 이용하면 밑줄의 두께나 색깔 등을 커스터마이징이 가능하다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;css-selector&quot;&gt;&lt;a href=&quot;#css-selector&quot; aria-label=&quot;css selector permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CSS Selector&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;p.p-tag {} -&gt; p 태그이면서, p-tag 클래스&lt;/li&gt;
-&lt;li&gt;p#third-line {} -&gt; p 태그이면서, third-line 아이디&lt;/li&gt;
-&lt;li&gt;.pre span {} -&gt; pre 클래스 안에 있는, span 태그&lt;/li&gt;
-&lt;li&gt;.a div .b .pre span {} -&gt; a 클래스 안에, div 태그 안에, b 클래스 안에, pre 클래스 안에 있는, span 태그&lt;/li&gt;
-&lt;li&gt;div .container li.first-list {} -&gt; div 태그 안에, container 클래스 안에, li 태그이면서, first-list 클래스&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Selector Priority : tag &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; class &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; id &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; inline css&lt;/p&gt;
-&lt;p&gt;attribute인 placeholder를 css의 selector로 표현하기 위해서는 콜론 두개를 붙여서 selector를 만들어줄 수 있다. 하지만 attribute를 표현한다고 모두 콜론을 쓰는 것은 아니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;( input::placeholder {} )&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;block-vs-inline&quot;&gt;&lt;a href=&quot;#block-vs-inline&quot; aria-label=&quot;block vs inline permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Block vs Inline&lt;/h3&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;주어진 숫자 배열에서, 0을 배열의 마지막쪽으로 이동시켜주세요.
+원래 있던 숫자의 순서는 바꾸지 말아주세요.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Block 요소 예시 : header, footer, p, li, table, div, h1 등 대부분의 HTML element&lt;/li&gt;
-&lt;li&gt;Inline 요소 예시 : span, a, img 등&lt;/li&gt;
+&lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;CSS를 이용해서 Block 요소 성질을 가진 Inline 요소, Inline 요소 성질을 가진 Block 요소를 만들 수 있다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;.inline-p {display: inline-block;} inline 성질을 가진 p 태그
-.block-span {display: block;} block 성질을 가진 span 태그&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
+Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;the-position-property&quot;&gt;&lt;a href=&quot;#the-position-property&quot; aria-label=&quot;the position property permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The position property&lt;/h3&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;fixed :&lt;/br&gt;
-An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element. A fixed element does not leave a gap in the page where it would normally have been located.&lt;/br&gt;
-&lt;/br&gt;
-페이지가 스크롤되더라도 늘 같은 곳에 위치하게끔 설정할 때 사용한다.&lt;/li&gt;
-&lt;li&gt;relative :&lt;/br&gt;
-An element with position: relative; is positioned relative to its normal position. Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.&lt;/br&gt;
-&lt;/br&gt;
-상대 위치가 지정된 엘리먼트에 top이나 right, bottom, left를 지정하면 기본 위치와 다르게 위치가 조정된다. 다른 콘텐츠는 해당 엘리먼트에서 남긴 공백에 맞춰 들어가게끔 조정되지는 않는다.&lt;/li&gt;
-&lt;li&gt;absolute :&lt;/br&gt;
-An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.&lt;/br&gt;
-&lt;/br&gt;
-가장 가까운 곳에 위치한 조상 엘리먼트에 상대적으로 위치가 조정된다는 점을 제외하면 fixed와 비슷하게 동작한다. 참고로 상대적으로 위치가 조정되게끔 지정된 엘리먼트는 position: static;인 경우를 제외하고 정해진다.&lt;/li&gt;
+&lt;li&gt;Solution&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
+nums.sort(function(aundefinedb) {
+  if (a === 0 &amp;amp;&amp;amp; b !== 0) {
+    return 1;
+  } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
+    return -1;
+  } else {
+    return 0;
+  }
+});
+return nums;
+};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
+//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the smallest sum of elements along the way]]></title><description><![CDATA[The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</guid><pubDate>Wed, 30 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.26626998884344%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdqNEizo/8QAGRABAAMBAQAAAAAAAAAAAAAAAQIRIQAQ/9oACAEBAAEFAgrxNitPSd//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hUmImeix2BnB16f/aAAwDAQACAAMAAAAQdP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxgf/aAAgBAQABPxAbRCtF7Ma8r2cogssTsn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/8ac56/parking_grid.webp 240w,
+/static/31b76f868ce321406c412aba00fc60d7/d3be9/parking_grid.webp 480w,
+/static/31b76f868ce321406c412aba00fc60d7/e46b2/parking_grid.webp 960w,
+/static/31b76f868ce321406c412aba00fc60d7/f992d/parking_grid.webp 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/882b9/parking_grid.webp 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/08673/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/5a194/parking_grid.jpg 240w,
+/static/31b76f868ce321406c412aba00fc60d7/8a430/parking_grid.jpg 480w,
+/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg 960w,
+/static/31b76f868ce321406c412aba00fc60d7/e5be1/parking_grid.jpg 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/b89a9/parking_grid.jpg 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;양수로 이루어진 m x n 그리드를 인자로 드립니다.
+상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,
+가장 작은 합을 찾아서 return 해주세요.&lt;/p&gt;
+&lt;p&gt;한 지점에서 우측이나 아래로만 이동할 수 있습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input:
+[
+[1undefined3undefined1]undefined
+[1undefined5undefined1]undefined
+[4undefined2undefined1]
+]
+
+Output: 7
+
+설명: 1→3→1→1→1 의 합이 제일 작음&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;display-inline-block&quot;&gt;&lt;a href=&quot;#display-inline-block&quot; aria-label=&quot;display inline block permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Display: inline-block&lt;/h3&gt;
-&lt;p&gt;Compared to display: inline, the major difference is that display: inline-block allows to set a width and height on the element. Also, with display: inline-block, the top and bottom margins/paddings are respected, but with display: inline they are not. Compared to display: block, the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements.&lt;/p&gt;
-&lt;p&gt;간단하게 말해서 Inline 요소 성질을 가진 Block 요소라고 할 수 있다. 예시로 .inline-p {display: inline-block;} 은 inline 성질을 가진 p 태그이다.&lt;/p&gt;
-&lt;hr&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const minPathSum = grid =&amp;gt; {
+let m = grid[0].length;
+let n = grid.length;
+if (!m || !n) {
+  return 0;
+}
+for (let i = 1; i &amp;lt; n; i++) {
+  grid[i][0] += grid[i - 1][0];
+}
+for (let j = 1; j &amp;lt; m; j++) {
+  grid[0][j] += grid[0][j - 1];
+}
+for (let i = 1; i &amp;lt; n; i++) {
+  for (let j = 1; j &amp;lt; m; j++) {
+    grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j]undefined grid[i][j - 1] + grid[i][j]);
+  }
+}
+return grid[n - 1][m - 1];
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(minPathSum([[1undefined3undefined1]undefined[1undefined5undefined1]undefined[4undefined2undefined1]];));;&amp;lt;/br&amp;gt;
+//expected output : 7&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;float&quot;&gt;&lt;a href=&quot;#float&quot; aria-label=&quot;float permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;float&lt;/h3&gt;
-&lt;p&gt;The float property specifies how an element should float.&lt;/p&gt;
-&lt;p&gt;float은 이미지 주위를 텍스트로 감싸기 위해 만들어진 것이다. 포지션이 절대적인 경우에는 float을 무시한다. float요소를 사용할 경우 그 다음 요소는 float요소 위에 뜨게 된다. 이 경우에는 clear속성 또는 clearfix 핵을 사용하면 된다. 예시로 .box {clear: left;}를 할 경우 box 클래스를 가진 엘리먼트 왼쪽은 비워준다.&lt;/p&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Commands]]></title><description><![CDATA[A list of my commonly used Git commands]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Commands]]></title><description><![CDATA[A list of my commonly used Git commands]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</guid><pubDate>Thu, 24 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;tell-git-who-you-are&quot;&gt;&lt;a href=&quot;#tell-git-who-you-are&quot; aria-label=&quot;tell git who you are permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tell Git who you are&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -503,125 +378,7 @@ git grep --count &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git grep -p &amp;quot;String&amp;quot;
 git grep --show-function &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;</content:encoded></item><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/8ac56/move_zero.webp 240w,
-/static/88b446067bab153c8d028318d6e8ae8c/d3be9/move_zero.webp 480w,
-/static/88b446067bab153c8d028318d6e8ae8c/e46b2/move_zero.webp 960w,
-/static/88b446067bab153c8d028318d6e8ae8c/f992d/move_zero.webp 1440w,
-/static/88b446067bab153c8d028318d6e8ae8c/882b9/move_zero.webp 1920w,
-/static/88b446067bab153c8d028318d6e8ae8c/2339f/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5a194/move_zero.jpg 240w,
-/static/88b446067bab153c8d028318d6e8ae8c/8a430/move_zero.jpg 480w,
-/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg 960w,
-/static/88b446067bab153c8d028318d6e8ae8c/e5be1/move_zero.jpg 1440w,
-/static/88b446067bab153c8d028318d6e8ae8c/b89a9/move_zero.jpg 1920w,
-/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
-&lt;p&gt;주어진 숫자 배열에서, 0을 배열의 마지막쪽으로 이동시켜주세요.
-원래 있던 숫자의 순서는 바꾸지 말아주세요.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
-Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Solution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
-nums.sort(function(aundefinedb) {
-  if (a === 0 &amp;amp;&amp;amp; b !== 0) {
-    return 1;
-  } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
-    return -1;
-  } else {
-    return 0;
-  }
-});
-return nums;
-};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
-//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the smallest sum of elements along the way]]></title><description><![CDATA[The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</guid><pubDate>Wed, 30 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.26626998884344%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdqNEizo/8QAGRABAAMBAQAAAAAAAAAAAAAAAQIRIQAQ/9oACAEBAAEFAgrxNitPSd//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hUmImeix2BnB16f/aAAwDAQACAAMAAAAQdP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxgf/aAAgBAQABPxAbRCtF7Ma8r2cogssTsn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/8ac56/parking_grid.webp 240w,
-/static/31b76f868ce321406c412aba00fc60d7/d3be9/parking_grid.webp 480w,
-/static/31b76f868ce321406c412aba00fc60d7/e46b2/parking_grid.webp 960w,
-/static/31b76f868ce321406c412aba00fc60d7/f992d/parking_grid.webp 1440w,
-/static/31b76f868ce321406c412aba00fc60d7/882b9/parking_grid.webp 1920w,
-/static/31b76f868ce321406c412aba00fc60d7/08673/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/5a194/parking_grid.jpg 240w,
-/static/31b76f868ce321406c412aba00fc60d7/8a430/parking_grid.jpg 480w,
-/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg 960w,
-/static/31b76f868ce321406c412aba00fc60d7/e5be1/parking_grid.jpg 1440w,
-/static/31b76f868ce321406c412aba00fc60d7/b89a9/parking_grid.jpg 1920w,
-/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
-&lt;p&gt;양수로 이루어진 m x n 그리드를 인자로 드립니다.
-상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,
-가장 작은 합을 찾아서 return 해주세요.&lt;/p&gt;
-&lt;p&gt;한 지점에서 우측이나 아래로만 이동할 수 있습니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input:
-[
-[1undefined3undefined1]undefined
-[1undefined5undefined1]undefined
-[4undefined2undefined1]
-]
-
-Output: 7
-
-설명: 1→3→1→1→1 의 합이 제일 작음&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Solution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const minPathSum = grid =&amp;gt; {
-let m = grid[0].length;
-let n = grid.length;
-if (!m || !n) {
-  return 0;
-}
-for (let i = 1; i &amp;lt; n; i++) {
-  grid[i][0] += grid[i - 1][0];
-}
-for (let j = 1; j &amp;lt; m; j++) {
-  grid[0][j] += grid[0][j - 1];
-}
-for (let i = 1; i &amp;lt; n; i++) {
-  for (let j = 1; j &amp;lt; m; j++) {
-    grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j]undefined grid[i][j - 1] + grid[i][j]);
-  }
-}
-return grid[n - 1][m - 1];
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(minPathSum([[1undefined3undefined1]undefined[1undefined5undefined1]undefined[4undefined2undefined1]];));;&amp;lt;/br&amp;gt;
-//expected output : 7&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return a common prefix]]></title><description><![CDATA[The function 'getPrefix' takes strs, an array of words. Return a common prefix.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</guid><pubDate>Fri, 18 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+&lt;hr&gt;</content:encoded></item><item><title><![CDATA[Return a common prefix]]></title><description><![CDATA[The function 'getPrefix' takes strs, an array of words. Return a common prefix.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</guid><pubDate>Fri, 18 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/c4703/its_simple.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.71428571428571%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd71NmsQH//EABgQAQADAQAAAAAAAAAAAAAAAAEAAhAR/9oACAEBAAEFAle41LQAJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAABAhAAERMaH/2gAIAQEABj8C10usxD//xAAaEAEAAwADAAAAAAAAAAAAAAABABExEEFx/9oACAEBAAE/IRAAneJcuZ36laAHH//aAAwDAQACAAMAAAAQz+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFhgf/aAAgBAQABPxB1A2RTx3EJYidYJCkFWJyLq6Mf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -679,7 +436,7 @@ console.log(getPrefix([&amp;quot;start&amp;quot;undefined &amp;quot;stair&amp;qu
 console.log(getPrefix([&amp;quot;start&amp;quot;undefined &amp;quot;stair&amp;quot;undefined &amp;quot;step&amp;quot;undefined &amp;quot;strite&amp;quot;undefined &amp;quot;store&amp;quot;undefined &amp;quot;sacrifice&amp;quot;]));&amp;lt;/br&amp;gt;
 //expected output : &amp;quot;s&amp;quot;&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return whether the flipped shape is the same as num]]></title><description><![CDATA[The function 'samereverse' takes num of type Number. Return whether the flipped shape is the same as num.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</guid><pubDate>Thu, 17 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return whether the flipped shape is the same as num]]></title><description><![CDATA[The function 'samereverse' takes num of type Number. Return whether the flipped shape is the same as num.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</guid><pubDate>Thu, 17 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/524aea755b4916fd428abc5a58a170e1/de221/b21.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGT4ncKEAU//8QAGRABAAMBAQAAAAAAAAAAAAAAAQIREgAh/9oACAEBAAEFAjNVHpIJLzba2//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8BeqI//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/AcV//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEREBIhIjL/2gAIAQEABj8C4QtVkixEUk//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhMXFBUbH/2gAIAQEAAT8hml6ia0Umw/4Ox6Co+i6cn//aAAwDAQACAAMAAAAQBz//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/EFwk4bf/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EAzA3l//xAAeEAACAgICAwAAAAAAAAAAAAABEQAhMXFBUWGh4f/aAAgBAQABPxAi1F57biBMsKnuAYXC/qcvAp3FBgMEMXuoQ1ByU//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -752,7 +509,7 @@ console.log(sameReverse(-121));&amp;lt;/br&amp;gt;
 console.log(sameReverse(10));&amp;lt;/br&amp;gt;
 //expected output : false =&amp;gt; 뒤집은 모양이 01 이기 때문&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the longest word of the alphabet's length that is not duplicated]]></title><description><![CDATA[The function 'getLengthOfStr' takes str argument of type String. Return the longest word of the alphabet's length that is not duplicated.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_longest_word_of_the_alphabet&apos;s_length_that_is_not_duplicated/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_longest_word_of_the_alphabet&apos;s_length_that_is_not_duplicated/</guid><pubDate>Wed, 16 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the longest word of the alphabet's length that is not duplicated]]></title><description><![CDATA[The function 'getLengthOfStr' takes str argument of type String. Return the longest word of the alphabet's length that is not duplicated.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_longest_word_of_the_alphabet&apos;s_length_that_is_not_duplicated/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_longest_word_of_the_alphabet&apos;s_length_that_is_not_duplicated/</guid><pubDate>Wed, 16 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/de221/love_is.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABxVnZTjB3/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAECETH/2gAIAQEAAQUCgU6KCBcVH//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAAMAAAAAAAAAAAAAAAAAABAgMf/aAAgBAQAGPwIRP//EABwQAQACAQUAAAAAAAAAAAAAAAEAESExQVFhgf/aAAgBAQABPyHsQAwUwX2Z3Hp5ldlbz//aAAwDAQACAAMAAAAQqy//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxBORl2F/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAeMgOLf//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExQcH/2gAIAQEAAT8QSxoSFvYxWAidTlR12T1DsQCfsxBTQoExwVP/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -822,7 +579,7 @@ console.log(getLengthOfStr(&amp;quot;sttrg&amp;quot;));&amp;lt;/br&amp;gt;
 console.log(getLengthOfStr(&amp;quot;appleahhe&amp;quot;));&amp;lt;/br&amp;gt;
 //expected output : 5 =&amp;gt; &amp;#39;pleah&amp;#39;가 제일 길기 때문&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return Inverted Integer]]></title><description><![CDATA[The function 'reverse' takes an integer number. Invert the number and return it.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_inverted_integer/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_inverted_integer/</guid><pubDate>Tue, 15 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return Inverted Integer]]></title><description><![CDATA[The function 'reverse' takes an integer number. Invert the number and return it.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_inverted_integer/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_inverted_integer/</guid><pubDate>Tue, 15 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/f4e31/number_block.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 60.586443259710585%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHNRFaGL//EABkQAAMAAwAAAAAAAAAAAAAAAAABERAiMv/aAAgBAQABBQKlZsjnFZ//xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAwEBPwFH/8QAFhEBAQEAAAAAAAAAAAAAAAAAADEB/9oACAECAQE/AY2v/8QAGBAAAgMAAAAAAAAAAAAAAAAAEDEAIbH/2gAIAQEABj8CvQi5/8QAHRAAAQMFAQAAAAAAAAAAAAAAAQARIRAxQVFxYf/aAAgBAQABPyHAP6kEA3269oRkG6p3Sf/aAAwDAQACAAMAAAAQwx//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EMW4L//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBQWVN//8QAHRABAAICAgMAAAAAAAAAAAAAAREhADFBcVFh4f/aAAgBAQABPxBYFZJKPuY+5E4AlDsm+MvQK2TMp5xL7zYdNzHWDBvZDRrnL228/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -903,55 +660,125 @@ console.log(reverse(12300));    //expected output :   321&lt;/br&gt;
 console.log(reverse(0));        //expected output :     0&lt;/br&gt;
 console.log(reverse(-1234));    //expected output : -4321&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Which is the best algorithm for searching?]]></title><description><![CDATA[There is no such algorithm. It depends on factors like how the data is stored, how much resources can be spent, etc. Based on the required time and space complexities, an algorithm has to be selected.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/Which_is_the_best_algorithm_for_searching?/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/Which_is_the_best_algorithm_for_searching?/</guid><pubDate>Mon, 11 Nov 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 664px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/32c46/binary_tree.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 63.55421686746988%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAAByElEQVQoz31SS28BURidf2lDLSTC1gYLiQU7C0EiE+zEY0FEpPFYiHRIMPFWj1BEgol3Oprxqh4zzVBpe5KZnHvvd8733e+7xIXHJw+Bb7fbfr/f6XS63e5kMtnv95c/QIjsfD7XajW3263RaKRSqUwmk8vlCoXCZDLFYrH5fC7k+CEW1rvdzufzabVaaJ54qFQqWCiVSolEolarYVGtVn/JzLKsx+PR6/VGo9FisZAkabVaHQ6HzWZzuVzgZrPZYDDodLpSqXSf/ypOJBJ2u93pdCI0EAiAP/OIRCIoB17BYBAWJI/ZbCbqieVy6fV6/X5/OByOx+PpdBr29Xo9FAolk8l2u53P50Gi0SgC0JFMJnMTo7GIg2Y0GlUqlWaz2Wq10OpyuVwsFqfTKf6vPHAEC5R5OBwEPYF5pFKpwWCAhG88ijzG4zE6RFFUo9EYDoeCGBzBHMd9i3GHQqGAIWG8Yj00TSM6m80yDCNuwhcJUNGtYRhvr9dDqafTCbtYCmeYLYoHwT42QRaLBZSbzeZ2Z3y4w2q1Oh6P4mvDn3qh2Hf2fqrr9RpDfZzzw7sRljk6x36wl39B3Au++eXKmRXDHbkH04c0X1fymCFP/E4nAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/8ac56/binary_tree.webp 240w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/d3be9/binary_tree.webp 480w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/c2945/binary_tree.webp 664w&quot; sizes=&quot;(max-width: 664px) 100vw, 664px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/e4891/binary_tree.png 240w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/0ce91/binary_tree.png 480w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/32c46/binary_tree.png 664w&quot; sizes=&quot;(max-width: 664px) 100vw, 664px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/32c46/binary_tree.png&quot; alt=&quot;binary tree&quot; title=&quot;binary tree&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;p&gt;최상의 검색 알고리즘은 따로 없다. 그것은 무슨 데이터인지 검색하려는 데이터의 양이 얼마나인지에 따라 달라진다.
-대표적으로 두 가지의 타입의 알고리즘이 있다.&lt;/p&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[TIL (191001)]]></title><description><![CDATA[Today I Learned (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</guid><pubDate>Tue, 01 Oct 2019 01:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;선형-검색-linear-search&quot;&gt;&lt;a href=&quot;#%EC%84%A0%ED%98%95-%EA%B2%80%EC%83%89-linear-search&quot; aria-label=&quot;선형 검색 linear search permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;선형 검색 (Linear Search)&lt;/h3&gt;
-&lt;p&gt;주어진 숫자 배열에서, 0을 배열의 마지막쪽으로 이동시켜주세요.
-원래 있던 숫자의 순서는 바꾸지 말아주세요.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
-Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;meta-charsetutf-8&quot;&gt;&lt;a href=&quot;#meta-charsetutf-8&quot; aria-label=&quot;meta charsetutf 8 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;meta charset=”utf-8”&lt;/h3&gt;
+&lt;p&gt;A character in UTF8 can be from 1 to 4 bytes long. UTF-8 can represent any character in the Unicode standard. UTF-8 is backwards compatible with ASCII. UTF-8 is the preferred encoding for e-mail and web pages.&lt;/p&gt;
+&lt;p&gt;컴퓨터는 언어를 숫자로 표현한다. 웹페이지에 영어가 아닌 언어가 쓰일 때 (예: 한국어, 중국어, 일본어) HTML 파일에 써줘야 하는 것! 이는 유니코드를 표현하는 인코딩 방식 중에 하나다. 웹페이지가 저장한 문자 표현 방식과 웹브라우저가 웹페이지를 해석하는 방법이 일치하지 않으면 이상한 문자를 표시한다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h3 id=&quot;이진-검색-binary-search&quot;&gt;&lt;a href=&quot;#%EC%9D%B4%EC%A7%84-%EA%B2%80%EC%83%89-binary-search&quot; aria-label=&quot;이진 검색 binary search permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;이진 검색 (Binary Search)&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Solution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
-nums.sort(function(aundefinedb) {
-  if (a === 0 &amp;amp;&amp;amp; b !== 0) {
-    return 1;
-  } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
-    return -1;
-  } else {
-    return 0;
-  }
-});
-return nums;
-};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
-//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&quot;h1-h2-h3-h4-h5-h6&quot;&gt;&lt;a href=&quot;#h1-h2-h3-h4-h5-h6&quot; aria-label=&quot;h1 h2 h3 h4 h5 h6 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;h1, h2, h3, h4, h5, h6&lt;/h3&gt;
+&lt;p&gt;The h1 to h6 tags are used to define HTML headings. h1 defines the most important heading. h6 defines the least important heading.&lt;/p&gt;
+&lt;p&gt;하루에도 수백만 개, 수천만 개의 새로운 정보가 생겨난다. 무언가를 검색했을 때, 검색 엔진 상단에 노출이 잘 되게끔 하는 것! 프론트엔드 개발자라면 중요하게 생각해야할 요소 중 하나이다. 브라우저에서는 가장 먼저 태그를 확인하고 그에 맞게 기본(default) 스타일을 적용한다. 하지만 해당 태그나 class, id에 CSS 값이 있다면 해당 스타일을 더 우선순위로 적용하게 된다.&lt;/p&gt;
+&lt;hr&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 03:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;non-breaking-space&quot;&gt;&lt;a href=&quot;#non-breaking-space&quot; aria-label=&quot;non breaking space permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;  (Non-breaking Space)&lt;/h3&gt;
+&lt;p&gt;A non-breaking space is a space that will not break into a new line. Two words separated by a non-breaking space will stick together (not break into a new line). This is handy when breaking the words might be disruptive.&lt;/p&gt;
+&lt;p&gt;자바스크립트에서는 스페이스바를 아무리 연속해서 써도 한번 밖에 적용되지 않는다. 이를 해결할 수 있는 것이 바로 이것이다. 스페이스바를 의미하는 코드라고 생각하면 된다. 예를 들어서 들여쓰기를 할 때 ‘  ’ 이렇게 연달아 입력하면 된다. 참고로 들여쓰기는 CSS에서 text-indent 프로퍼티를 사용해서도 가능하다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;h1 id=&quot;css-cascading-style-sheets&quot;&gt;&lt;a href=&quot;#css-cascading-style-sheets&quot; aria-label=&quot;css cascading style sheets permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CSS (Cascading Style Sheets)&lt;/h1&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;font-family&quot;&gt;&lt;a href=&quot;#font-family&quot; aria-label=&quot;font family permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;font family&lt;/h3&gt;
+&lt;p&gt;The font family property specifies the font for an element. The font family property can hold several font names as a “fallback” system. If the browser does not support the first font, it tries the next font.&lt;/p&gt;
+&lt;p&gt;( #title {font-family: Georgia, “Times New Roman”, Times, serif;} )&lt;/p&gt;
+&lt;p&gt;사용자가 어떤 브라우저를 사용할지 모르기 때문에 최대한 여러 폰트를 나열하는 것! 가장 뒤에 위치한 serif 같은 폰트는 모든 브라우저에서 지원하는 폰트를 적는다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;margin-border-padding-css-box-model&quot;&gt;&lt;a href=&quot;#margin-border-padding-css-box-model&quot; aria-label=&quot;margin border padding css box model permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Margin, Border, Padding (CSS box model)&lt;/h3&gt;
+&lt;br&gt;
+&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e7427/css_box_model.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 46.98412698412698%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABLElEQVQoz5WQz0vDMBzF96/qaFe7uk0nDrwLguBFvIjnqQe9dunPTdnWQ51XN2073NU1iSJCbVK/XbHrGAi+PL6Ql89LICWCSYgxeF3B1PcCHxOyfhTikFJawgQfOycikqt6varXii7fVMq3FcVYyRW9Lmry4eAoJGFalvXtU/es592pY4QmWubOBF051+3+pfrUWYZj1PV656OLDVWYk3mJEFI3d+/9fhInLGYwc/OIs68YZp6wb5aw5GE2EtFWVsY1c0efGCkN61ecc0rhQ/AyShYAS/r+YKVsPFvpxZzxgqKFihkAgA2CoZCXG1bT8uzoM4J3aEHvqT6KWwAAG04dSVPSMuwbZnOzI7a6B017f89u/WEAABOQJGnVt+zDRrNH88X6l91Xl1DyAyWstBJzGybFAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/8ac56/css_box_model.webp 240w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/d3be9/css_box_model.webp 480w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e46b2/css_box_model.webp 960w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/4ef06/css_box_model.webp 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e4891/css_box_model.png 240w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/0ce91/css_box_model.png 480w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/b7c40/css_box_model.png 960w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e7427/css_box_model.png 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/b7c40/css_box_model.png&quot; alt=&quot;css_box_model&quot; title=&quot;css_box_model&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;br&gt;
+* Content -&amp;gt; The content of the box, where text and images appear&lt;br&gt;
+* Padding -&amp;gt; Clears an area around the content. The padding is transparent&lt;br&gt;
+* Border -&amp;gt; A border that goes around the padding and content&lt;br&gt;
+* Margin -&amp;gt; Clears an area outside the border. The margin is transparent&lt;br&gt;
+&lt;p&gt;( {margin: 10px;} = { margin: 10px 10px 10px 10px;} = {위, 오, 아래, 왼} =
+{margin-top: 10px; margin-right: 10px; margin-bottom: 10px; margin-left: 10px;})&lt;/p&gt;
+&lt;p&gt;밑줄을 쳐주는 스타일을 구현할 때! 자유롭게 원하는대로 커스터마이징을 위해서 ‘text-decoration: underline’ 대신에 ‘border-bottom’을 이용하면 밑줄의 두께나 색깔 등을 커스터마이징이 가능하다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;css-selector&quot;&gt;&lt;a href=&quot;#css-selector&quot; aria-label=&quot;css selector permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CSS Selector&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;p.p-tag {} -&gt; p 태그이면서, p-tag 클래스&lt;/li&gt;
+&lt;li&gt;p#third-line {} -&gt; p 태그이면서, third-line 아이디&lt;/li&gt;
+&lt;li&gt;.pre span {} -&gt; pre 클래스 안에 있는, span 태그&lt;/li&gt;
+&lt;li&gt;.a div .b .pre span {} -&gt; a 클래스 안에, div 태그 안에, b 클래스 안에, pre 클래스 안에 있는, span 태그&lt;/li&gt;
+&lt;li&gt;div .container li.first-list {} -&gt; div 태그 안에, container 클래스 안에, li 태그이면서, first-list 클래스&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Selector Priority : tag &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; class &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; id &amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C;&amp;#x3C; inline css&lt;/p&gt;
+&lt;p&gt;attribute인 placeholder를 css의 selector로 표현하기 위해서는 콜론 두개를 붙여서 selector를 만들어줄 수 있다. 하지만 attribute를 표현한다고 모두 콜론을 쓰는 것은 아니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;( input::placeholder {} )&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;block-vs-inline&quot;&gt;&lt;a href=&quot;#block-vs-inline&quot; aria-label=&quot;block vs inline permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Block vs Inline&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Block 요소 예시 : header, footer, p, li, table, div, h1 등 대부분의 HTML element&lt;/li&gt;
+&lt;li&gt;Inline 요소 예시 : span, a, img 등&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;CSS를 이용해서 Block 요소 성질을 가진 Inline 요소, Inline 요소 성질을 가진 Block 요소를 만들 수 있다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;.inline-p {display: inline-block;} inline 성질을 가진 p 태그
+.block-span {display: block;} block 성질을 가진 span 태그&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;the-position-property&quot;&gt;&lt;a href=&quot;#the-position-property&quot; aria-label=&quot;the position property permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The position property&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fixed :&lt;/br&gt;
+An element with position: fixed; is positioned relative to the viewport, which means it always stays in the same place even if the page is scrolled. The top, right, bottom, and left properties are used to position the element. A fixed element does not leave a gap in the page where it would normally have been located.&lt;/br&gt;
+&lt;/br&gt;
+페이지가 스크롤되더라도 늘 같은 곳에 위치하게끔 설정할 때 사용한다.&lt;/li&gt;
+&lt;li&gt;relative :&lt;/br&gt;
+An element with position: relative; is positioned relative to its normal position. Setting the top, right, bottom, and left properties of a relatively-positioned element will cause it to be adjusted away from its normal position. Other content will not be adjusted to fit into any gap left by the element.&lt;/br&gt;
+&lt;/br&gt;
+상대 위치가 지정된 엘리먼트에 top이나 right, bottom, left를 지정하면 기본 위치와 다르게 위치가 조정된다. 다른 콘텐츠는 해당 엘리먼트에서 남긴 공백에 맞춰 들어가게끔 조정되지는 않는다.&lt;/li&gt;
+&lt;li&gt;absolute :&lt;/br&gt;
+An element with position: absolute; is positioned relative to the nearest positioned ancestor (instead of positioned relative to the viewport, like fixed). However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.&lt;/br&gt;
+&lt;/br&gt;
+가장 가까운 곳에 위치한 조상 엘리먼트에 상대적으로 위치가 조정된다는 점을 제외하면 fixed와 비슷하게 동작한다. 참고로 상대적으로 위치가 조정되게끔 지정된 엘리먼트는 position: static;인 경우를 제외하고 정해진다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;display-inline-block&quot;&gt;&lt;a href=&quot;#display-inline-block&quot; aria-label=&quot;display inline block permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Display: inline-block&lt;/h3&gt;
+&lt;p&gt;Compared to display: inline, the major difference is that display: inline-block allows to set a width and height on the element. Also, with display: inline-block, the top and bottom margins/paddings are respected, but with display: inline they are not. Compared to display: block, the major difference is that display: inline-block does not add a line-break after the element, so the element can sit next to other elements.&lt;/p&gt;
+&lt;p&gt;간단하게 말해서 Inline 요소 성질을 가진 Block 요소라고 할 수 있다. 예시로 .inline-p {display: inline-block;} 은 inline 성질을 가진 p 태그이다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;float&quot;&gt;&lt;a href=&quot;#float&quot; aria-label=&quot;float permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;float&lt;/h3&gt;
+&lt;p&gt;The float property specifies how an element should float.&lt;/p&gt;
+&lt;p&gt;float은 이미지 주위를 텍스트로 감싸기 위해 만들어진 것이다. 포지션이 절대적인 경우에는 float을 무시한다. float요소를 사용할 경우 그 다음 요소는 float요소 위에 뜨게 된다. 이 경우에는 clear속성 또는 clearfix 핵을 사용하면 된다. 예시로 .box {clear: left;}를 할 경우 box 클래스를 가진 엘리먼트 왼쪽은 비워준다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 01:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
