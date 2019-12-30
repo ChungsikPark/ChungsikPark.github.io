@@ -1,6 +1,6 @@
 ---
 title: Return the longest word of the alphabet's length that is not duplicated
-date: "Thu Oct 16 2019 12:00:00 GMT+0900"
+date: "Thu Oct 16 2019 10:00:00 GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/return_the_longest_word_of_the_alphabet's_length_that_is_not_duplicated/"
