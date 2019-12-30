@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 11 Nov 2019 08:53:07 GMT</lastBuildDate><item><title><![CDATA[WILT]]></title><description><![CDATA[What I Learned Today (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/wilt/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 14:36:17 GMT</lastBuildDate><item><title><![CDATA[TIL (191001)]]></title><description><![CDATA[Today I Learned (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -36,18 +36,18 @@
 &lt;h3 id=&quot;margin-border-padding-css-box-model&quot;&gt;&lt;a href=&quot;#margin-border-padding-css-box-model&quot; aria-label=&quot;margin border padding css box model permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Margin, Border, Padding (CSS box model)&lt;/h3&gt;
 &lt;br&gt;
 &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/c6d2c/css_box_model.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e7427/css_box_model.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 46.98412698412698%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAIAAAC9o5sfAAAACXBIWXMAAAsSAAALEgHS3X78AAABLElEQVQoz5WQz0vDMBzF96/qaFe7uk0nDrwLguBFvIjnqQe9dunPTdnWQ51XN2073NU1iSJCbVK/XbHrGAi+PL6Ql89LICWCSYgxeF3B1PcCHxOyfhTikFJawgQfOycikqt6varXii7fVMq3FcVYyRW9Lmry4eAoJGFalvXtU/es592pY4QmWubOBF051+3+pfrUWYZj1PV656OLDVWYk3mJEFI3d+/9fhInLGYwc/OIs68YZp6wb5aw5GE2EtFWVsY1c0efGCkN61ecc0rhQ/AyShYAS/r+YKVsPFvpxZzxgqKFihkAgA2CoZCXG1bT8uzoM4J3aEHvqT6KWwAAG04dSVPSMuwbZnOzI7a6B017f89u/WEAABOQJGnVt+zDRrNH88X6l91Xl1DyAyWstBJzGybFAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/01472/css_box_model.webp 240w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/222bd/css_box_model.webp 480w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/620b9/css_box_model.webp 960w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/efa4b/css_box_model.webp 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/0783d/css_box_model.png 240w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/782f4/css_box_model.png 480w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/f570d/css_box_model.png 960w,
-/static/15d4bce3d53e7ee9f7a86aeb6c66471e/c6d2c/css_box_model.png 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/f570d/css_box_model.png&quot; alt=&quot;css_box_model&quot; title=&quot;css_box_model&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/8ac56/css_box_model.webp 240w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/d3be9/css_box_model.webp 480w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e46b2/css_box_model.webp 960w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/4ef06/css_box_model.webp 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e4891/css_box_model.png 240w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/0ce91/css_box_model.png 480w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/b7c40/css_box_model.png 960w,
+/static/15d4bce3d53e7ee9f7a86aeb6c66471e/e7427/css_box_model.png 1260w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/15d4bce3d53e7ee9f7a86aeb6c66471e/b7c40/css_box_model.png&quot; alt=&quot;css_box_model&quot; title=&quot;css_box_model&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -117,22 +117,22 @@ An element with position: absolute; is positioned relative to the nearest positi
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/e1877/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/01472/move_zero.webp 240w,
-/static/88b446067bab153c8d028318d6e8ae8c/222bd/move_zero.webp 480w,
-/static/88b446067bab153c8d028318d6e8ae8c/620b9/move_zero.webp 960w,
-/static/88b446067bab153c8d028318d6e8ae8c/28063/move_zero.webp 1440w,
-/static/88b446067bab153c8d028318d6e8ae8c/34ef4/move_zero.webp 1920w,
-/static/88b446067bab153c8d028318d6e8ae8c/7140d/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/3bc27/move_zero.jpg 240w,
-/static/88b446067bab153c8d028318d6e8ae8c/98431/move_zero.jpg 480w,
-/static/88b446067bab153c8d028318d6e8ae8c/b3ee8/move_zero.jpg 960w,
-/static/88b446067bab153c8d028318d6e8ae8c/b97fe/move_zero.jpg 1440w,
-/static/88b446067bab153c8d028318d6e8ae8c/fb329/move_zero.jpg 1920w,
-/static/88b446067bab153c8d028318d6e8ae8c/e1877/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/b3ee8/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/8ac56/move_zero.webp 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/d3be9/move_zero.webp 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/e46b2/move_zero.webp 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/f992d/move_zero.webp 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/882b9/move_zero.webp 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/2339f/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5a194/move_zero.jpg 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/8a430/move_zero.jpg 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/e5be1/move_zero.jpg 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/b89a9/move_zero.jpg 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -144,8 +144,8 @@ An element with position: absolute; is positioned relative to the nearest positi
 &lt;ul&gt;
 &lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0,1,0,3,12]
-Output: [1,3,12,0,0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
+Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -154,7 +154,7 @@ Output: [1,3,12,0,0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;li&gt;Solution&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
-nums.sort(function(a,b) {
+nums.sort(function(aundefinedb) {
   if (a === 0 &amp;amp;&amp;amp; b !== 0) {
     return 1;
   } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
@@ -165,26 +165,26 @@ nums.sort(function(a,b) {
 });
 return nums;
 };&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0,1,0,3,12]));&amp;lt;/br&amp;gt;
-//expected output : [ 1, 3, 12, 0, 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
+//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the smallest sum of elements along the way]]></title><description><![CDATA[The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</guid><pubDate>Wed, 30 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/16f13/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.26626998884344%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdqNEizo/8QAGRABAAMBAQAAAAAAAAAAAAAAAQIRIQAQ/9oACAEBAAEFAgrxNitPSd//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hUmImeix2BnB16f/aAAwDAQACAAMAAAAQdP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxgf/aAAgBAQABPxAbRCtF7Ma8r2cogssTsn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/01472/parking_grid.webp 240w,
-/static/31b76f868ce321406c412aba00fc60d7/222bd/parking_grid.webp 480w,
-/static/31b76f868ce321406c412aba00fc60d7/620b9/parking_grid.webp 960w,
-/static/31b76f868ce321406c412aba00fc60d7/28063/parking_grid.webp 1440w,
-/static/31b76f868ce321406c412aba00fc60d7/34ef4/parking_grid.webp 1920w,
-/static/31b76f868ce321406c412aba00fc60d7/03106/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/3bc27/parking_grid.jpg 240w,
-/static/31b76f868ce321406c412aba00fc60d7/98431/parking_grid.jpg 480w,
-/static/31b76f868ce321406c412aba00fc60d7/b3ee8/parking_grid.jpg 960w,
-/static/31b76f868ce321406c412aba00fc60d7/b97fe/parking_grid.jpg 1440w,
-/static/31b76f868ce321406c412aba00fc60d7/fb329/parking_grid.jpg 1920w,
-/static/31b76f868ce321406c412aba00fc60d7/16f13/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/b3ee8/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/8ac56/parking_grid.webp 240w,
+/static/31b76f868ce321406c412aba00fc60d7/d3be9/parking_grid.webp 480w,
+/static/31b76f868ce321406c412aba00fc60d7/e46b2/parking_grid.webp 960w,
+/static/31b76f868ce321406c412aba00fc60d7/f992d/parking_grid.webp 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/882b9/parking_grid.webp 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/08673/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/5a194/parking_grid.jpg 240w,
+/static/31b76f868ce321406c412aba00fc60d7/8a430/parking_grid.jpg 480w,
+/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg 960w,
+/static/31b76f868ce321406c412aba00fc60d7/e5be1/parking_grid.jpg 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/b89a9/parking_grid.jpg 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -197,9 +197,9 @@ return nums;
 &lt;p&gt;한 지점에서 우측이나 아래로만 이동할 수 있습니다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input:
 [
-[1,3,1],
-[1,5,1],
-[4,2,1]
+[1undefined3undefined1]undefined
+[1undefined5undefined1]undefined
+[4undefined2undefined1]
 ]
 
 Output: 7
@@ -226,12 +226,12 @@ for (let j = 1; j &amp;lt; m; j++) {
 }
 for (let i = 1; i &amp;lt; n; i++) {
   for (let j = 1; j &amp;lt; m; j++) {
-    grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j], grid[i][j - 1] + grid[i][j]);
+    grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j]undefined grid[i][j - 1] + grid[i][j]);
   }
 }
 return grid[n - 1][m - 1];
 }&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(minPathSum([[1,3,1],[1,5,1],[4,2,1]];));;&amp;lt;/br&amp;gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(minPathSum([[1undefined3undefined1]undefined[1undefined5undefined1]undefined[4undefined2undefined1]];));;&amp;lt;/br&amp;gt;
 //expected output : 7&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Commands]]></title><description><![CDATA[A list of my commonly used Git commands]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</guid><pubDate>Thu, 24 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
@@ -497,22 +497,22 @@ git grep --count &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git grep -p &amp;quot;String&amp;quot;
 git grep --show-function &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;</content:encoded></item><item><title><![CDATA[Return a common prefix]]></title><description><![CDATA[The function 'getPrefix' takes strs, an array of words. Return a common prefix.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</guid><pubDate>Fri, 18 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/36a65/its_simple.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/c4703/its_simple.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.71428571428571%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd71NmsQH//EABgQAQADAQAAAAAAAAAAAAAAAAEAAhAR/9oACAEBAAEFAle41LQAJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAABAhAAERMaH/2gAIAQEABj8C10usxD//xAAaEAEAAwADAAAAAAAAAAAAAAABABExEEFx/9oACAEBAAE/IRAAneJcuZ36laAHH//aAAwDAQACAAMAAAAQz+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFhgf/aAAgBAQABPxB1A2RTx3EJYidYJCkFWJyLq6Mf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/01472/its_simple.webp 240w,
-/static/0a91eac8a0156e7588b3c952c35f3662/222bd/its_simple.webp 480w,
-/static/0a91eac8a0156e7588b3c952c35f3662/620b9/its_simple.webp 960w,
-/static/0a91eac8a0156e7588b3c952c35f3662/28063/its_simple.webp 1440w,
-/static/0a91eac8a0156e7588b3c952c35f3662/34ef4/its_simple.webp 1920w,
-/static/0a91eac8a0156e7588b3c952c35f3662/0ff3f/its_simple.webp 2100w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/3bc27/its_simple.jpg 240w,
-/static/0a91eac8a0156e7588b3c952c35f3662/98431/its_simple.jpg 480w,
-/static/0a91eac8a0156e7588b3c952c35f3662/b3ee8/its_simple.jpg 960w,
-/static/0a91eac8a0156e7588b3c952c35f3662/b97fe/its_simple.jpg 1440w,
-/static/0a91eac8a0156e7588b3c952c35f3662/fb329/its_simple.jpg 1920w,
-/static/0a91eac8a0156e7588b3c952c35f3662/36a65/its_simple.jpg 2100w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/b3ee8/its_simple.jpg&quot; alt=&quot;its simple&quot; title=&quot;its simple&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/8ac56/its_simple.webp 240w,
+/static/0a91eac8a0156e7588b3c952c35f3662/d3be9/its_simple.webp 480w,
+/static/0a91eac8a0156e7588b3c952c35f3662/e46b2/its_simple.webp 960w,
+/static/0a91eac8a0156e7588b3c952c35f3662/f992d/its_simple.webp 1440w,
+/static/0a91eac8a0156e7588b3c952c35f3662/882b9/its_simple.webp 1920w,
+/static/0a91eac8a0156e7588b3c952c35f3662/92e50/its_simple.webp 2100w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/5a194/its_simple.jpg 240w,
+/static/0a91eac8a0156e7588b3c952c35f3662/8a430/its_simple.jpg 480w,
+/static/0a91eac8a0156e7588b3c952c35f3662/0781d/its_simple.jpg 960w,
+/static/0a91eac8a0156e7588b3c952c35f3662/e5be1/its_simple.jpg 1440w,
+/static/0a91eac8a0156e7588b3c952c35f3662/b89a9/its_simple.jpg 1920w,
+/static/0a91eac8a0156e7588b3c952c35f3662/c4703/its_simple.jpg 2100w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/0781d/its_simple.jpg&quot; alt=&quot;its simple&quot; title=&quot;its simple&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -521,9 +521,9 @@ git grep --show-function &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;
 &lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
 &lt;p&gt;strs은 단어가 담긴 배열입니다. 공통된 시작 단어(prefix)를 반환해주세요.&lt;/p&gt;
 &lt;p&gt;예를 들어,&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;strs = [&amp;quot;start&amp;quot;, &amp;quot;stair&amp;quot;, &amp;quot;step&amp;quot;]
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;strs = [&amp;quot;start&amp;quot;undefined &amp;quot;stair&amp;quot;undefined &amp;quot;step&amp;quot;]
 return은 &amp;quot;st&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;strs = [&amp;quot;start&amp;quot;, &amp;quot;wework&amp;quot;, &amp;quot;today&amp;quot;]
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;strs = [&amp;quot;start&amp;quot;undefined &amp;quot;wework&amp;quot;undefined &amp;quot;today&amp;quot;]
 return은 &amp;quot;&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
 &lt;/li&gt;
@@ -539,7 +539,7 @@ if (strs.length &amp;gt; 0) {
   for (let i = 1; i &amp;lt; strs.length; i++) {
     for (let j = 0; j &amp;lt; commonPrefix.length; j++) {
       if (strs[i][j] !== commonPrefix[j]) {
-        commonPrefix = commonPrefix.slice(0, j);
+        commonPrefix = commonPrefix.slice(0undefined j);
         break;
       }
     }
@@ -547,30 +547,30 @@ if (strs.length &amp;gt; 0) {
 }
 return commonPrefix;
 };&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(getPrefix([&amp;quot;start&amp;quot;, &amp;quot;wework&amp;quot;, &amp;quot;today&amp;quot;]));&amp;lt;/br&amp;gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(getPrefix([&amp;quot;start&amp;quot;undefined &amp;quot;wework&amp;quot;undefined &amp;quot;today&amp;quot;]));&amp;lt;/br&amp;gt;
 //expected output : &amp;quot;&amp;quot;&amp;lt;/br&amp;gt;
-console.log(getPrefix([&amp;quot;start&amp;quot;, &amp;quot;stair&amp;quot;, &amp;quot;step&amp;quot;]));&amp;lt;/br&amp;gt;
+console.log(getPrefix([&amp;quot;start&amp;quot;undefined &amp;quot;stair&amp;quot;undefined &amp;quot;step&amp;quot;]));&amp;lt;/br&amp;gt;
 //expected output : &amp;quot;st&amp;quot;&amp;lt;/br&amp;gt;
-console.log(getPrefix([&amp;quot;start&amp;quot;, &amp;quot;stair&amp;quot;, &amp;quot;step&amp;quot;, &amp;quot;strite&amp;quot;, &amp;quot;store&amp;quot;, &amp;quot;sacrifice&amp;quot;]));&amp;lt;/br&amp;gt;
+console.log(getPrefix([&amp;quot;start&amp;quot;undefined &amp;quot;stair&amp;quot;undefined &amp;quot;step&amp;quot;undefined &amp;quot;strite&amp;quot;undefined &amp;quot;store&amp;quot;undefined &amp;quot;sacrifice&amp;quot;]));&amp;lt;/br&amp;gt;
 //expected output : &amp;quot;s&amp;quot;&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return whether the flipped shape is the same as num]]></title><description><![CDATA[The function 'samereverse' takes num of type Number. Return whether the flipped shape is the same as num.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_whether_the_flipped_shape_is_the_same_as_num/</guid><pubDate>Thu, 17 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/524aea755b4916fd428abc5a58a170e1/4b954/b21.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/524aea755b4916fd428abc5a58a170e1/de221/b21.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAAGT4ncKEAU//8QAGRABAAMBAQAAAAAAAAAAAAAAAQIREgAh/9oACAEBAAEFAjNVHpIJLzba2//EABcRAAMBAAAAAAAAAAAAAAAAAAABERL/2gAIAQMBAT8BeqI//8QAFhEBAQEAAAAAAAAAAAAAAAAAAAEh/9oACAECAQE/AcV//8QAGxAAAgEFAAAAAAAAAAAAAAAAAAEREBIhIjL/2gAIAQEABj8C4QtVkixEUk//xAAcEAACAgIDAAAAAAAAAAAAAAAAAREhMXFBUbH/2gAIAQEAAT8hml6ia0Umw/4Ox6Co+i6cn//aAAwDAQACAAMAAAAQBz//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oACAEDAQE/EFwk4bf/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAECAQE/EAzA3l//xAAeEAACAgICAwAAAAAAAAAAAAABEQAhMXFBUWGh4f/aAAgBAQABPxAi1F57biBMsKnuAYXC/qcvAp3FBgMEMXuoQ1ByU//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/524aea755b4916fd428abc5a58a170e1/01472/b21.webp 240w,
-/static/524aea755b4916fd428abc5a58a170e1/222bd/b21.webp 480w,
-/static/524aea755b4916fd428abc5a58a170e1/620b9/b21.webp 960w,
-/static/524aea755b4916fd428abc5a58a170e1/28063/b21.webp 1440w,
-/static/524aea755b4916fd428abc5a58a170e1/34ef4/b21.webp 1920w,
-/static/524aea755b4916fd428abc5a58a170e1/905bb/b21.webp 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/524aea755b4916fd428abc5a58a170e1/3bc27/b21.jpg 240w,
-/static/524aea755b4916fd428abc5a58a170e1/98431/b21.jpg 480w,
-/static/524aea755b4916fd428abc5a58a170e1/b3ee8/b21.jpg 960w,
-/static/524aea755b4916fd428abc5a58a170e1/b97fe/b21.jpg 1440w,
-/static/524aea755b4916fd428abc5a58a170e1/fb329/b21.jpg 1920w,
-/static/524aea755b4916fd428abc5a58a170e1/4b954/b21.jpg 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/524aea755b4916fd428abc5a58a170e1/b3ee8/b21.jpg&quot; alt=&quot;b21&quot; title=&quot;b21&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/524aea755b4916fd428abc5a58a170e1/8ac56/b21.webp 240w,
+/static/524aea755b4916fd428abc5a58a170e1/d3be9/b21.webp 480w,
+/static/524aea755b4916fd428abc5a58a170e1/e46b2/b21.webp 960w,
+/static/524aea755b4916fd428abc5a58a170e1/f992d/b21.webp 1440w,
+/static/524aea755b4916fd428abc5a58a170e1/882b9/b21.webp 1920w,
+/static/524aea755b4916fd428abc5a58a170e1/9a8a1/b21.webp 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/524aea755b4916fd428abc5a58a170e1/5a194/b21.jpg 240w,
+/static/524aea755b4916fd428abc5a58a170e1/8a430/b21.jpg 480w,
+/static/524aea755b4916fd428abc5a58a170e1/0781d/b21.jpg 960w,
+/static/524aea755b4916fd428abc5a58a170e1/e5be1/b21.jpg 1440w,
+/static/524aea755b4916fd428abc5a58a170e1/b89a9/b21.jpg 1920w,
+/static/524aea755b4916fd428abc5a58a170e1/de221/b21.jpg 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/524aea755b4916fd428abc5a58a170e1/0781d/b21.jpg&quot; alt=&quot;b21&quot; title=&quot;b21&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -628,22 +628,22 @@ console.log(sameReverse(10));&amp;lt;/br&amp;gt;
 //expected output : false =&amp;gt; 뒤집은 모양이 01 이기 때문&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the longest word of the alphabet's length that is not duplicated]]></title><description><![CDATA[The function 'getLengthOfStr' takes str argument of type String. Return the longest word of the alphabet's length that is not duplicated.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_longest_word_of_the_alphabet&apos;s_length_that_is_not_duplicated/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_longest_word_of_the_alphabet&apos;s_length_that_is_not_duplicated/</guid><pubDate>Wed, 16 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/4b954/love_is.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/de221/love_is.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIDBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABxVnZTjB3/8QAGBAAAwEBAAAAAAAAAAAAAAAAAAECETH/2gAIAQEAAQUCgU6KCBcVH//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABYQAAMAAAAAAAAAAAAAAAAAABAgMf/aAAgBAQAGPwIRP//EABwQAQACAQUAAAAAAAAAAAAAAAEAESExQVFhgf/aAAgBAQABPyHsQAwUwX2Z3Hp5ldlbz//aAAwDAQACAAMAAAAQqy//xAAYEQEBAAMAAAAAAAAAAAAAAAABABEhMf/aAAgBAwEBPxBORl2F/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAgBAgEBPxAeMgOLf//EABoQAAIDAQEAAAAAAAAAAAAAAAERACExQcH/2gAIAQEAAT8QSxoSFvYxWAidTlR12T1DsQCfsxBTQoExwVP/2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/01472/love_is.webp 240w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/222bd/love_is.webp 480w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/620b9/love_is.webp 960w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/28063/love_is.webp 1440w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/34ef4/love_is.webp 1920w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/905bb/love_is.webp 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/3bc27/love_is.jpg 240w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/98431/love_is.jpg 480w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/b3ee8/love_is.jpg 960w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/b97fe/love_is.jpg 1440w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/fb329/love_is.jpg 1920w,
-/static/d4e3ee71ea8cbdf3b4acac83503f9930/4b954/love_is.jpg 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/b3ee8/love_is.jpg&quot; alt=&quot;love is&quot; title=&quot;love is&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/8ac56/love_is.webp 240w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/d3be9/love_is.webp 480w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/e46b2/love_is.webp 960w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/f992d/love_is.webp 1440w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/882b9/love_is.webp 1920w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/9a8a1/love_is.webp 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/5a194/love_is.jpg 240w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/8a430/love_is.jpg 480w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/0781d/love_is.jpg 960w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/e5be1/love_is.jpg 1440w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/b89a9/love_is.jpg 1920w,
+/static/d4e3ee71ea8cbdf3b4acac83503f9930/de221/love_is.jpg 2250w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/d4e3ee71ea8cbdf3b4acac83503f9930/0781d/love_is.jpg&quot; alt=&quot;love is&quot; title=&quot;love is&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -698,22 +698,22 @@ console.log(getLengthOfStr(&amp;quot;appleahhe&amp;quot;));&amp;lt;/br&amp;gt;
 //expected output : 5 =&amp;gt; &amp;#39;pleah&amp;#39;가 제일 길기 때문&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return Inverted Integer]]></title><description><![CDATA[The function 'reverse' takes an integer number. Invert the number and return it.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_inverted_integer/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_inverted_integer/</guid><pubDate>Tue, 15 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/52214/number_block.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/f4e31/number_block.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 60.586443259710585%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgED/9oADAMBAAIQAxAAAAHNRFaGL//EABkQAAMAAwAAAAAAAAAAAAAAAAABERAiMv/aAAgBAQABBQKlZsjnFZ//xAAVEQEBAAAAAAAAAAAAAAAAAAAAAf/aAAgBAwEBPwFH/8QAFhEBAQEAAAAAAAAAAAAAAAAAADEB/9oACAECAQE/AY2v/8QAGBAAAgMAAAAAAAAAAAAAAAAAEDEAIbH/2gAIAQEABj8CvQi5/8QAHRAAAQMFAQAAAAAAAAAAAAAAAQARIRAxQVFxYf/aAAgBAQABPyHAP6kEA3269oRkG6p3Sf/aAAwDAQACAAMAAAAQwx//xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oACAEDAQE/EMW4L//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxBQWVN//8QAHRABAAICAgMAAAAAAAAAAAAAAREhADFBcVFh4f/aAAgBAQABPxBYFZJKPuY+5E4AlDsm+MvQK2TMp5xL7zYdNzHWDBvZDRrnL228/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/01472/number_block.webp 240w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/222bd/number_block.webp 480w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/620b9/number_block.webp 960w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/28063/number_block.webp 1440w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/34ef4/number_block.webp 1920w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/0a292/number_block.webp 2626w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/3bc27/number_block.jpg 240w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/98431/number_block.jpg 480w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/b3ee8/number_block.jpg 960w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/b97fe/number_block.jpg 1440w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/fb329/number_block.jpg 1920w,
-/static/94574c4a459c0ef19e14e5c1f6bdfdc3/52214/number_block.jpg 2626w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/b3ee8/number_block.jpg&quot; alt=&quot;number block&quot; title=&quot;number block&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/8ac56/number_block.webp 240w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/d3be9/number_block.webp 480w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/e46b2/number_block.webp 960w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/f992d/number_block.webp 1440w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/882b9/number_block.webp 1920w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/b7fe8/number_block.webp 2626w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/5a194/number_block.jpg 240w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/8a430/number_block.jpg 480w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/0781d/number_block.jpg 960w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/e5be1/number_block.jpg 1440w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/b89a9/number_block.jpg 1920w,
+/static/94574c4a459c0ef19e14e5c1f6bdfdc3/f4e31/number_block.jpg 2626w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/94574c4a459c0ef19e14e5c1f6bdfdc3/0781d/number_block.jpg&quot; alt=&quot;number block&quot; title=&quot;number block&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -779,16 +779,16 @@ console.log(reverse(0));        //expected output :     0&lt;/br&gt;
 console.log(reverse(-1234));    //expected output : -4321&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Which is the best algorithm for searching?]]></title><description><![CDATA[There is no such algorithm. It depends on factors like how the data is stored, how much resources can be spent, etc. Based on the required time and space complexities, an algorithm has to be selected.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/Which_is_the_best_algorithm_for_searching?/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/Which_is_the_best_algorithm_for_searching?/</guid><pubDate>Mon, 11 Nov 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 664px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/a700e/binary_tree.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/32c46/binary_tree.png&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 63.55421686746988%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAAAsSAAALEgHS3X78AAAByElEQVQoz31SS28BURidf2lDLSTC1gYLiQU7C0EiE+zEY0FEpPFYiHRIMPFWj1BEgol3Oprxqh4zzVBpe5KZnHvvd8733e+7xIXHJw+Bb7fbfr/f6XS63e5kMtnv95c/QIjsfD7XajW3263RaKRSqUwmk8vlCoXCZDLFYrH5fC7k+CEW1rvdzufzabVaaJ54qFQqWCiVSolEolarYVGtVn/JzLKsx+PR6/VGo9FisZAkabVaHQ6HzWZzuVzgZrPZYDDodLpSqXSf/ypOJBJ2u93pdCI0EAiAP/OIRCIoB17BYBAWJI/ZbCbqieVy6fV6/X5/OByOx+PpdBr29Xo9FAolk8l2u53P50Gi0SgC0JFMJnMTo7GIg2Y0GlUqlWaz2Wq10OpyuVwsFqfTKf6vPHAEC5R5OBwEPYF5pFKpwWCAhG88ijzG4zE6RFFUo9EYDoeCGBzBHMd9i3GHQqGAIWG8Yj00TSM6m80yDCNuwhcJUNGtYRhvr9dDqafTCbtYCmeYLYoHwT42QRaLBZSbzeZ2Z3y4w2q1Oh6P4mvDn3qh2Hf2fqrr9RpDfZzzw7sRljk6x36wl39B3Au++eXKmRXDHbkH04c0X1fymCFP/E4nAAAAAElFTkSuQmCC&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-        &lt;source srcset=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/01472/binary_tree.webp 240w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/222bd/binary_tree.webp 480w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/28a47/binary_tree.webp 664w&quot; sizes=&quot;(max-width: 664px) 100vw, 664px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/0783d/binary_tree.png 240w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/782f4/binary_tree.png 480w,
-/static/c5dd8eec0666fd9549ad2dfed09c830e/a700e/binary_tree.png 664w&quot; sizes=&quot;(max-width: 664px) 100vw, 664px&quot; type=&quot;image/png&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/a700e/binary_tree.png&quot; alt=&quot;binary tree&quot; title=&quot;binary tree&quot; loading=&quot;lazy&quot;&gt;
+        &lt;source srcset=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/8ac56/binary_tree.webp 240w,
+/static/c5dd8eec0666fd9549ad2dfed09c830e/d3be9/binary_tree.webp 480w,
+/static/c5dd8eec0666fd9549ad2dfed09c830e/c2945/binary_tree.webp 664w&quot; sizes=&quot;(max-width: 664px) 100vw, 664px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/e4891/binary_tree.png 240w,
+/static/c5dd8eec0666fd9549ad2dfed09c830e/0ce91/binary_tree.png 480w,
+/static/c5dd8eec0666fd9549ad2dfed09c830e/32c46/binary_tree.png 664w&quot; sizes=&quot;(max-width: 664px) 100vw, 664px&quot; type=&quot;image/png&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/c5dd8eec0666fd9549ad2dfed09c830e/32c46/binary_tree.png&quot; alt=&quot;binary tree&quot; title=&quot;binary tree&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
@@ -802,8 +802,8 @@ console.log(reverse(-1234));    //expected output : -4321&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0,1,0,3,12]
-Output: [1,3,12,0,0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
+Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;hr&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -812,7 +812,7 @@ Output: [1,3,12,0,0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;li&gt;Solution&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
-nums.sort(function(a,b) {
+nums.sort(function(aundefinedb) {
   if (a === 0 &amp;amp;&amp;amp; b !== 0) {
     return 1;
   } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
@@ -823,8 +823,8 @@ nums.sort(function(a,b) {
 });
 return nums;
 };&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0,1,0,3,12]));&amp;lt;/br&amp;gt;
-//expected output : [ 1, 3, 12, 0, 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
+//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Humane Typography in the Digital Age]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 03:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
@@ -844,7 +844,7 @@ return nums;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -855,25 +855,26 @@ return nums;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/01472/42-line-bible.webp 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/222bd/42-line-bible.webp 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/0cbce/42-line-bible.webp 800w&quot;
+          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/8ac56/42-line-bible.webp 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/d3be9/42-line-bible.webp 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/d00b9/42-line-bible.webp 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/3bc27/42-line-bible.jpg 240w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/98431/42-line-bible.jpg 480w,
-/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg 800w&quot;
+          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/5a194/42-line-bible.jpg 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/8a430/42-line-bible.jpg 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg 800w&quot;
           sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/a296c/42-line-bible.jpg&quot;
+          src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
           alt=&quot;42-line-bible.jpg&quot;
           title=&quot;42-line-bible.jpg&quot;
           loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         /&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
@@ -909,7 +910,7 @@ return nums;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg&quot;
+    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -920,27 +921,28 @@ return nums;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/01472/type-through-time.webp 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/222bd/type-through-time.webp 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/620b9/type-through-time.webp 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/6db13/type-through-time.webp 1250w&quot;
+          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/8ac56/type-through-time.webp 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/d3be9/type-through-time.webp 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/e46b2/type-through-time.webp 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/e19c7/type-through-time.webp 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/3bc27/type-through-time.jpg 240w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/98431/type-through-time.jpg 480w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg 960w,
-/static/eaa988471fd2b61a1d4d313d0d9a5d23/313cc/type-through-time.jpg 1250w&quot;
+          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/5a194/type-through-time.jpg 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/8a430/type-through-time.jpg 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg 1250w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/b3ee8/type-through-time.jpg&quot;
+          src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg&quot;
           alt=&quot;type-through-time.jpg&quot;
           title=&quot;type-through-time.jpg&quot;
           loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         /&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
