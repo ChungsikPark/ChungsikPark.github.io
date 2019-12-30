@@ -1,4 +1,129 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 14:36:17 GMT</lastBuildDate><item><title><![CDATA[TIL (191001)]]></title><description><![CDATA[Today I Learned (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Dec 2019 15:03:30 GMT</lastBuildDate><item><title><![CDATA[TIL (191001) t]]></title><description><![CDATA[An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/typo/</guid><pubDate>Sun, 30 Sep 2018 03:00:00 GMT</pubDate><content:encoded>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;#the-first-transition&quot;&gt;The first transition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#the-digital-age&quot;&gt;The digital age&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot;&gt;Loss of humanity through transitions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#chasing-perfection&quot;&gt;Chasing perfection&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.&lt;/p&gt;
+&lt;p&gt;The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.&lt;/p&gt;
+&lt;p&gt;But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.&lt;/p&gt;
+&lt;h2 id=&quot;the-first-transition&quot;&gt;&lt;a href=&quot;#the-first-transition&quot; aria-label=&quot;the first transition permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The first transition&lt;/h2&gt;
+&lt;p&gt;A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.&lt;/p&gt;
+&lt;p&gt;The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 800px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAG9hSrMxf/EABoQAAICAwAAAAAAAAAAAAAAAAACARIQETH/2gAIAQEAAQUC4XYi2NqLZo//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARFBAhBx/9oACAEBAAY/AlqhSWSsoXD/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhQTFRYZH/2gAIAQEAAT8hbFV3ACrcETOK6tmKVsdRp+YPKwn/2gAMAwEAAgADAAAAEH/P/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/EKyP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QJ//EABoQAQEAAgMAAAAAAAAAAAAAAAERACExQVH/2gAIAQEAAT8QUSVSDzkUkLU7uPEbsWpO9e3AkarliEANePcMDTSBSa5uf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/8ac56/42-line-bible.webp 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/d3be9/42-line-bible.webp 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/d00b9/42-line-bible.webp 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/5a194/42-line-bible.jpg 240w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/8a430/42-line-bible.jpg 480w,
+/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg 800w&quot;
+          sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/6d93cbc4956a854d4c4369f0e281e7f3/f67cc/42-line-bible.jpg&quot;
+          alt=&quot;42-line-bible.jpg&quot;
+          title=&quot;42-line-bible.jpg&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The 42–Line Bible, printed by Gutenberg.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.&lt;/p&gt;
+&lt;h2 id=&quot;the-digital-age&quot;&gt;&lt;a href=&quot;#the-digital-age&quot; aria-label=&quot;the digital age permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The digital age&lt;/h2&gt;
+&lt;p&gt;The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.&lt;/p&gt;
+&lt;p&gt;— Massimo Vignelli&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.&lt;/p&gt;
+&lt;h2 id=&quot;loss-of-humanity-through-transitions&quot;&gt;&lt;a href=&quot;#loss-of-humanity-through-transitions&quot; aria-label=&quot;loss of humanity through transitions permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Loss of humanity through transitions&lt;/h2&gt;
+&lt;p&gt;Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.&lt;/p&gt;
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.&lt;/p&gt;
+		&lt;footer&gt;
+			&lt;cite&gt;— Josef Mueller-Brockmann&lt;/cite&gt;
+		&lt;/footer&gt;
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
+&lt;p&gt;Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.&lt;/p&gt;
+&lt;p&gt;— Eric Gill&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 20%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABtoJaRR//xAAWEAEBAQAAAAAAAAAAAAAAAAAAAjH/2gAIAQEAAQUClOv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPwEn/8QAFhAAAwAAAAAAAAAAAAAAAAAAAAEQ/9oACAEBAAY/Ahz/xAAYEAACAwAAAAAAAAAAAAAAAAABIQAQUf/aAAgBAQABPyEi2Zsr/9oADAMBAAIAAwAAABAID//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EGf/xAAVEQEBAAAAAAAAAAAAAAAAAAAQMf/aAAgBAgEBPxCD/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARQSEx/9oACAEBAAE/EAerusaDZp1lz//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/8ac56/type-through-time.webp 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/d3be9/type-through-time.webp 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/e46b2/type-through-time.webp 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/e19c7/type-through-time.webp 1250w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/5a194/type-through-time.jpg 240w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/8a430/type-through-time.jpg 480w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg 960w,
+/static/eaa988471fd2b61a1d4d313d0d9a5d23/07b10/type-through-time.jpg 1250w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/eaa988471fd2b61a1d4d313d0d9a5d23/0781d/type-through-time.jpg&quot;
+          alt=&quot;type-through-time.jpg&quot;
+          title=&quot;type-through-time.jpg&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Type through 5 centuries.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.&lt;/p&gt;
+&lt;h2 id=&quot;chasing-perfection&quot;&gt;&lt;a href=&quot;#chasing-perfection&quot; aria-label=&quot;chasing perfection permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Chasing perfection&lt;/h2&gt;
+&lt;p&gt;Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Originally published by &lt;a href=&quot;http://matejlatin.co.uk/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Matej Latin&lt;/a&gt; on &lt;a href=&quot;https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Medium&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[TIL (191001)]]></title><description><![CDATA[Today I Learned (HTML & CSS)]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/til/</guid><pubDate>Tue, 01 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;html-hyper-text-markup-language&quot;&gt;&lt;a href=&quot;#html-hyper-text-markup-language&quot; aria-label=&quot;html hyper text markup language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;HTML (Hyper Text Markup Language)&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -116,125 +241,7 @@ An element with position: absolute; is positioned relative to the nearest positi
 &lt;p&gt;float은 이미지 주위를 텍스트로 감싸기 위해 만들어진 것이다. 포지션이 절대적인 경우에는 float을 무시한다. float요소를 사용할 경우 그 다음 요소는 float요소 위에 뜨게 된다. 이 경우에는 clear속성 또는 clearfix 핵을 사용하면 된다. 예시로 .box {clear: left;}를 할 경우 box 클래스를 가진 엘리먼트 왼쪽은 비워준다.&lt;/p&gt;
 &lt;hr&gt;
 &lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/8ac56/move_zero.webp 240w,
-/static/88b446067bab153c8d028318d6e8ae8c/d3be9/move_zero.webp 480w,
-/static/88b446067bab153c8d028318d6e8ae8c/e46b2/move_zero.webp 960w,
-/static/88b446067bab153c8d028318d6e8ae8c/f992d/move_zero.webp 1440w,
-/static/88b446067bab153c8d028318d6e8ae8c/882b9/move_zero.webp 1920w,
-/static/88b446067bab153c8d028318d6e8ae8c/2339f/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5a194/move_zero.jpg 240w,
-/static/88b446067bab153c8d028318d6e8ae8c/8a430/move_zero.jpg 480w,
-/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg 960w,
-/static/88b446067bab153c8d028318d6e8ae8c/e5be1/move_zero.jpg 1440w,
-/static/88b446067bab153c8d028318d6e8ae8c/b89a9/move_zero.jpg 1920w,
-/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
-&lt;p&gt;주어진 숫자 배열에서, 0을 배열의 마지막쪽으로 이동시켜주세요.
-원래 있던 숫자의 순서는 바꾸지 말아주세요.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
-Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Solution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
-nums.sort(function(aundefinedb) {
-  if (a === 0 &amp;amp;&amp;amp; b !== 0) {
-    return 1;
-  } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
-    return -1;
-  } else {
-    return 0;
-  }
-});
-return nums;
-};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
-//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the smallest sum of elements along the way]]></title><description><![CDATA[The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</guid><pubDate>Wed, 30 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
-      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
-    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.26626998884344%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdqNEizo/8QAGRABAAMBAQAAAAAAAAAAAAAAAQIRIQAQ/9oACAEBAAEFAgrxNitPSd//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hUmImeix2BnB16f/aAAwDAQACAAMAAAAQdP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxgf/aAAgBAQABPxAbRCtF7Ma8r2cogssTsn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/8ac56/parking_grid.webp 240w,
-/static/31b76f868ce321406c412aba00fc60d7/d3be9/parking_grid.webp 480w,
-/static/31b76f868ce321406c412aba00fc60d7/e46b2/parking_grid.webp 960w,
-/static/31b76f868ce321406c412aba00fc60d7/f992d/parking_grid.webp 1440w,
-/static/31b76f868ce321406c412aba00fc60d7/882b9/parking_grid.webp 1920w,
-/static/31b76f868ce321406c412aba00fc60d7/08673/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/5a194/parking_grid.jpg 240w,
-/static/31b76f868ce321406c412aba00fc60d7/8a430/parking_grid.jpg 480w,
-/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg 960w,
-/static/31b76f868ce321406c412aba00fc60d7/e5be1/parking_grid.jpg 1440w,
-/static/31b76f868ce321406c412aba00fc60d7/b89a9/parking_grid.jpg 1920w,
-/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
-        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
-&lt;p&gt;양수로 이루어진 m x n 그리드를 인자로 드립니다.
-상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,
-가장 작은 합을 찾아서 return 해주세요.&lt;/p&gt;
-&lt;p&gt;한 지점에서 우측이나 아래로만 이동할 수 있습니다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input:
-[
-[1undefined3undefined1]undefined
-[1undefined5undefined1]undefined
-[4undefined2undefined1]
-]
-
-Output: 7
-
-설명: 1→3→1→1→1 의 합이 제일 작음&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Solution&lt;/li&gt;
-&lt;/ul&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const minPathSum = grid =&amp;gt; {
-let m = grid[0].length;
-let n = grid.length;
-if (!m || !n) {
-  return 0;
-}
-for (let i = 1; i &amp;lt; n; i++) {
-  grid[i][0] += grid[i - 1][0];
-}
-for (let j = 1; j &amp;lt; m; j++) {
-  grid[0][j] += grid[0][j - 1];
-}
-for (let i = 1; i &amp;lt; n; i++) {
-  for (let j = 1; j &amp;lt; m; j++) {
-    grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j]undefined grid[i][j - 1] + grid[i][j]);
-  }
-}
-return grid[n - 1][m - 1];
-}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(minPathSum([[1undefined3undefined1]undefined[1undefined5undefined1]undefined[4undefined2undefined1]];));;&amp;lt;/br&amp;gt;
-//expected output : 7&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Commands]]></title><description><![CDATA[A list of my commonly used Git commands]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</guid><pubDate>Thu, 24 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Git Commands]]></title><description><![CDATA[A list of my commonly used Git commands]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/git_commands/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;h1 id=&quot;tell-git-who-you-are&quot;&gt;&lt;a href=&quot;#tell-git-who-you-are&quot; aria-label=&quot;tell git who you are permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Tell Git who you are&lt;/h1&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
@@ -496,7 +503,125 @@ git grep --count &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git grep -p &amp;quot;String&amp;quot;
 git grep --show-function &amp;quot;String&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;hr&gt;</content:encoded></item><item><title><![CDATA[Return a common prefix]]></title><description><![CDATA[The function 'getPrefix' takes strs, an array of words. Return a common prefix.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</guid><pubDate>Fri, 18 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+&lt;hr&gt;</content:encoded></item><item><title><![CDATA[Return the array that shifted 0 to the end of the array]]></title><description><![CDATA[The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/</guid><pubDate>Thu, 31 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 62.54452926208651%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdMieUiQ/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQIDETEAEv/aAAgBAQABBQJpKYtXaHFyMnoYP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEBExMqH/2gAIAQEABj8Cas2hOzPCj//EABoQAQEBAQADAAAAAAAAAAAAAAERAFExYZH/2gAIAQEAAT8hYyYWaaUe3EBeZessmXxD6wocG//aAAwDAQACAAMAAAAQIw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAeEAEBAAEDBQAAAAAAAAAAAAABEQAhMUFRYYGxwf/aAAgBAQABPxBsJig264yDTcD85zTMqFZvilAIUGwm+IKzuPbKqGRQl8Z//9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/8ac56/move_zero.webp 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/d3be9/move_zero.webp 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/e46b2/move_zero.webp 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/f992d/move_zero.webp 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/882b9/move_zero.webp 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/2339f/move_zero.webp 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/88b446067bab153c8d028318d6e8ae8c/5a194/move_zero.jpg 240w,
+/static/88b446067bab153c8d028318d6e8ae8c/8a430/move_zero.jpg 480w,
+/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg 960w,
+/static/88b446067bab153c8d028318d6e8ae8c/e5be1/move_zero.jpg 1440w,
+/static/88b446067bab153c8d028318d6e8ae8c/b89a9/move_zero.jpg 1920w,
+/static/88b446067bab153c8d028318d6e8ae8c/5bc8f/move_zero.jpg 1965w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/88b446067bab153c8d028318d6e8ae8c/0781d/move_zero.jpg&quot; alt=&quot;move zero&quot; title=&quot;move zero&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;주어진 숫자 배열에서, 0을 배열의 마지막쪽으로 이동시켜주세요.
+원래 있던 숫자의 순서는 바꾸지 말아주세요.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;새로운 배열을 생성해서는 안 됩니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input: [0undefined1undefined0undefined3undefined12]
+Output: [1undefined3undefined12undefined0undefined0]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const moveZeroes = nums =&amp;gt; {
+nums.sort(function(aundefinedb) {
+  if (a === 0 &amp;amp;&amp;amp; b !== 0) {
+    return 1;
+  } else if (a !== 0 &amp;amp;&amp;amp; b === 0) {
+    return -1;
+  } else {
+    return 0;
+  }
+});
+return nums;
+};&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(moveZeroes([0undefined1undefined0undefined3undefined12]));&amp;lt;/br&amp;gt;
+//expected output : [ 1undefined 3undefined 12undefined 0undefined 0 ]&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return the smallest sum of elements along the way]]></title><description><![CDATA[The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_the_smallest_sum_of_elements_along_the_way/</guid><pubDate>Wed, 30 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 56.26626998884344%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdqNEizo/8QAGRABAAMBAQAAAAAAAAAAAAAAAQIRIQAQ/9oACAEBAAEFAgrxNitPSd//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhQVH/2gAIAQEAAT8hUmImeix2BnB16f/aAAwDAQACAAMAAAAQdP8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAAMAAwAAAAAAAAAAAAAAAQARIUFxgf/aAAgBAQABPxAbRCtF7Ma8r2cogssTsn//2Q==&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/8ac56/parking_grid.webp 240w,
+/static/31b76f868ce321406c412aba00fc60d7/d3be9/parking_grid.webp 480w,
+/static/31b76f868ce321406c412aba00fc60d7/e46b2/parking_grid.webp 960w,
+/static/31b76f868ce321406c412aba00fc60d7/f992d/parking_grid.webp 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/882b9/parking_grid.webp 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/08673/parking_grid.webp 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+        &lt;source srcset=&quot;/static/31b76f868ce321406c412aba00fc60d7/5a194/parking_grid.jpg 240w,
+/static/31b76f868ce321406c412aba00fc60d7/8a430/parking_grid.jpg 480w,
+/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg 960w,
+/static/31b76f868ce321406c412aba00fc60d7/e5be1/parking_grid.jpg 1440w,
+/static/31b76f868ce321406c412aba00fc60d7/b89a9/parking_grid.jpg 1920w,
+/static/31b76f868ce321406c412aba00fc60d7/95950/parking_grid.jpg 2689w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+        &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/31b76f868ce321406c412aba00fc60d7/0781d/parking_grid.jpg&quot; alt=&quot;parking grid&quot; title=&quot;parking grid&quot; loading=&quot;lazy&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;문제&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C&quot; aria-label=&quot;문제 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제&lt;/h3&gt;
+&lt;p&gt;양수로 이루어진 m x n 그리드를 인자로 드립니다.
+상단 왼쪽에서 시작하여, 하단 오른쪽까지 가는 길의 요소를 다 더했을 때,
+가장 작은 합을 찾아서 return 해주세요.&lt;/p&gt;
+&lt;p&gt;한 지점에서 우측이나 아래로만 이동할 수 있습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Input:
+[
+[1undefined3undefined1]undefined
+[1undefined5undefined1]undefined
+[4undefined2undefined1]
+]
+
+Output: 7
+
+설명: 1→3→1→1→1 의 합이 제일 작음&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;hr&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h3 id=&quot;나의-코드&quot;&gt;&lt;a href=&quot;#%EB%82%98%EC%9D%98-%EC%BD%94%EB%93%9C&quot; aria-label=&quot;나의 코드 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;나의 코드&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Solution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const minPathSum = grid =&amp;gt; {
+let m = grid[0].length;
+let n = grid.length;
+if (!m || !n) {
+  return 0;
+}
+for (let i = 1; i &amp;lt; n; i++) {
+  grid[i][0] += grid[i - 1][0];
+}
+for (let j = 1; j &amp;lt; m; j++) {
+  grid[0][j] += grid[0][j - 1];
+}
+for (let i = 1; i &amp;lt; n; i++) {
+  for (let j = 1; j &amp;lt; m; j++) {
+    grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j]undefined grid[i][j - 1] + grid[i][j]);
+  }
+}
+return grid[n - 1][m - 1];
+}&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;console.log(minPathSum([[1undefined3undefined1]undefined[1undefined5undefined1]undefined[4undefined2undefined1]];));;&amp;lt;/br&amp;gt;
+//expected output : 7&amp;lt;/br&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Return a common prefix]]></title><description><![CDATA[The function 'getPrefix' takes strs, an array of words. Return a common prefix.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/return_a_common_prefix/</guid><pubDate>Fri, 18 Oct 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/0a91eac8a0156e7588b3c952c35f3662/c4703/its_simple.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.71428571428571%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAd71NmsQH//EABgQAQADAQAAAAAAAAAAAAAAAAEAAhAR/9oACAEBAAEFAle41LQAJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAABAhAAERMaH/2gAIAQEABj8C10usxD//xAAaEAEAAwADAAAAAAAAAAAAAAABABExEEFx/9oACAEBAAE/IRAAneJcuZ36laAHH//aAAwDAQACAAMAAAAQz+//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgIDAAAAAAAAAAAAAAABABEQMSFhgf/aAAgBAQABPxB1A2RTx3EJYidYJCkFWJyLq6Mf/9k=&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
