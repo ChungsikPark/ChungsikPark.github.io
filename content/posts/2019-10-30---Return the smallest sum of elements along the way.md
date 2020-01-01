@@ -1,6 +1,6 @@
 ---
 title: Return the smallest sum of elements along the way
-date: "2019-10-30T12:00:00.000Z"
+date: "2019-10-30T12:00:00+09:00"
 template: "post"
 draft: false
 slug: "/posts/return_the_smallest_sum_of_elements_along_the_way/"

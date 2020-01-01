@@ -1,6 +1,6 @@
 ---
 title: Return Inverted Integer
-date: "2019-10-15T12:00:00.000Z"
+date: "2019-10-15T12:00:00+09:00"
 template: "post"
 draft: false
 slug: "/posts/return_inverted_integer/"
