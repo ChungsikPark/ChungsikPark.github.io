@@ -1,6 +1,6 @@
 ---
 title: Return a common prefix
-date: "Thu Oct 18 2019 10:00:00 GMT+0900"
+date: "2019-10-18T10:00:000Z GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/return_a_common_prefix/"
