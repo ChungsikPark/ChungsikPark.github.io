@@ -1,6 +1,6 @@
 ---
 title: Git Commands
-date: "2019-10-24 T10:00:00.000Z GMT+0900"
+date: "2019-10-24T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/posts/git_commands/"

@@ -1,6 +1,6 @@
 ---
 title: Return the array that shifted 0 to the end of the array
-date: "2019-10-31 T10:00:00.000Z GMT+0900"
+date: "2019-10-31T12:00:00.000Z"
 template: "post"
 draft: false
 slug: "/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/"
