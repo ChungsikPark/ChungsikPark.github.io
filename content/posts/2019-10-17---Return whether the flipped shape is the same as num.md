@@ -1,6 +1,6 @@
 ---
 title: Return whether the flipped shape is the same as num
-date: "2019-10-17T10:00:00.000Z GMT+0900"
+date: "2019-10-17 T10:00:00.000Z GMT+0900"
 template: "post"
 draft: false
 slug: "/posts/return_whether_the_flipped_shape_is_the_same_as_num/"
