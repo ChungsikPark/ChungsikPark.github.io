@@ -23,25 +23,25 @@ socialImage: "../../static/media/b21.jpeg"
 
   예를 들어,
 
-  ```
+  ```js
   num = 123
   return false
   => 뒤집은 모양이 321 이기 때문
   ```
 
-  ```
+  ```js
   num = 1221
   return true
   => 뒤집은 모양이 1221 이기 때문
   ```
 
-  ```
+  ```js
   num = -121
   return false
   => 뒤집은 모양이 121- 이기 때문
   ```
 
-  ```
+  ```js
   num = 10
   return false
   => 뒤집은 모양이 01 이기 때문
@@ -53,27 +53,29 @@ socialImage: "../../static/media/b21.jpeg"
 
   - Solution 1
 
-  ```
+  ```js
   const sameReverse = num => {
     let strN = String(num);
     let strNArr = strN.split("");
     let revStrNArr = strNArr.reverse();
     let revN = revStrNArr.join("");
     return revN;
-  }
+  };
   ```
 
   - Solution 2
 
-  ```
+  ```js
   const sameReverse = num => {
-    let revNum = Array.from(String(num)).reverse().join("");
+    let revNum = Array.from(String(num))
+      .reverse()
+      .join("");
     if (String(num) === revNum) {
       return true;
     } else {
       return false;
     }
-  }
+  };
   ```
 
         console.log(sameReverse(123));</br>

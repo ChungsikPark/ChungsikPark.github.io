@@ -23,19 +23,19 @@ socialImage: "../../static/media/love_is.jpeg"
 
   예를 들어,
 
-  ```
+  ```js
   str = "abcabcabc"
   return은 3
   => 'abc' 가 제일 길기 때문
   ```
 
-  ```
+  ```js
   str = "aaaaa"
   return은 1
   => 'a' 가 제일 길기 때문
   ```
 
-  ```
+  ```js
   str = "sttrg"
   return은 3
   => 'trg' 가 제일 길기 때문
@@ -47,7 +47,7 @@ socialImage: "../../static/media/love_is.jpeg"
 
   - Solution
 
-  ```
+  ```js
   const getLengthOfStr = str => {
     let maxLength = 0;
     let arr;

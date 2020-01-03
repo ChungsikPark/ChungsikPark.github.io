@@ -22,7 +22,7 @@ socialImage: "../../static/media/parking_grid.jpeg"
 
   한 지점에서 우측이나 아래로만 이동할 수 있습니다.
 
-  ```
+  ```js
   Input:
   [
     [1,3,1],
@@ -41,7 +41,7 @@ socialImage: "../../static/media/parking_grid.jpeg"
 
   - Solution
 
-  ```
+  ```js
   const minPathSum = grid => {
     let m = grid[0].length;
     let n = grid.length;
@@ -56,11 +56,14 @@ socialImage: "../../static/media/parking_grid.jpeg"
     }
     for (let i = 1; i < n; i++) {
       for (let j = 1; j < m; j++) {
-        grid[i][j] = Math.min(grid[i - 1][j] + grid[i][j], grid[i][j - 1] + grid[i][j]);
+        grid[i][j] = Math.min(
+          grid[i - 1][j] + grid[i][j],
+          grid[i][j - 1] + grid[i][j]
+        );
       }
     }
     return grid[n - 1][m - 1];
-  }
+  };
   ```
 
         console.log(minPathSum([[1,3,1],[1,5,1],[4,2,1]];));;</br>

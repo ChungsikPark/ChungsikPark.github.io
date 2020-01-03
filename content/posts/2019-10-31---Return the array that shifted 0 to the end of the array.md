@@ -21,9 +21,9 @@ socialImage: "../../static/media/move_zero.jpeg"
 
   - 새로운 배열을 생성해서는 안 됩니다.
 
-  ```
-  Input: [0,1,0,3,12]
-  Output: [1,3,12,0,0]
+  ```js
+  Input: [0, 1, 0, 3, 12];
+  Output: [1, 3, 12, 0, 0];
   ```
 
   ***
@@ -32,9 +32,9 @@ socialImage: "../../static/media/move_zero.jpeg"
 
   - Solution
 
-  ```
+  ```js
   const moveZeroes = nums => {
-    nums.sort(function(a,b) {
+    nums.sort(function(a, b) {
       if (a === 0 && b !== 0) {
         return 1;
       } else if (a !== 0 && b === 0) {

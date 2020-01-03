@@ -24,17 +24,17 @@ socialImage: "../../static/media/number_block.jpeg"
 
   예를 들어,
 
-  ```
+  ```js
   x: 1234
   return: 4321
   ```
 
-  ```
+  ```js
   x: -1234
   return: -4321
   ```
 
-  ```
+  ```js
   x: 1230
   return: 321
   ```
@@ -45,7 +45,7 @@ socialImage: "../../static/media/number_block.jpeg"
 
   - Solution 1
 
-  ```
+  ```js
   const reverse = x => {
     if (x < 0) {
       return -reverse(-x);
@@ -60,7 +60,7 @@ socialImage: "../../static/media/number_block.jpeg"
 
   - Solution 2
 
-  ```
+  ```js
   const reverse = x => {
     let nX = Math.abs(x);
     let strNX = String(nX);
@@ -74,17 +74,31 @@ socialImage: "../../static/media/number_block.jpeg"
 
   - Solution 3
 
-  ```
+  ```js
   const reverse = x => {
-    return Number(Math.abs(x).toString().split("").reverse().join("")) * Math.sign(x);
+    return (
+      Number(
+        Math.abs(x)
+          .toString()
+          .split("")
+          .reverse()
+          .join("")
+      ) * Math.sign(x)
+    );
   };
   ```
 
   - Solution 4
 
-  ```
+  ```js
   const reverse = x => {
-    return Number(Array.from(Math.abs(x).toString()).reverse().join("")) * Math.sign(x);
+    return (
+      Number(
+        Array.from(Math.abs(x).toString())
+          .reverse()
+          .join("")
+      ) * Math.sign(x)
+    );
   };
   ```
 

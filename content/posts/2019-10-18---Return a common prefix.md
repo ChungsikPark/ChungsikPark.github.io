@@ -20,12 +20,12 @@ socialImage: "../../static/media/its_simple.jpeg"
 
   예를 들어,
 
-  ```
+  ```js
   strs = ["start", "stair", "step"]
   return은 "st"
   ```
 
-  ```
+  ```js
   strs = ["start", "wework", "today"]
   return은 ""
   ```
@@ -36,9 +36,9 @@ socialImage: "../../static/media/its_simple.jpeg"
 
   - Solution
 
-  ```
+  ```js
   const getPrefix = strs => {
-    let commonPrefix = '';
+    let commonPrefix = "";
     if (strs.length > 0) {
       commonPrefix = strs[0];
       for (let i = 1; i < strs.length; i++) {
