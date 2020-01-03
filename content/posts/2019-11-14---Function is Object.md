@@ -1,5 +1,5 @@
 ---
-title: Function Object
+title: Function is Object
 date: "2019-11-14T12:00:00+09:00"
 template: "post"
 draft: false
