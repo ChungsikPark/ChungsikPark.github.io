@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jan 2020 12:10:39 GMT</lastBuildDate><item><title><![CDATA[Linked List]]></title><description><![CDATA[Linked List]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/linked_list/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/linked_list/</guid><pubDate>Thu, 19 Dec 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Chungsik]]></title><description><![CDATA[You Only Live Once]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 08 Jan 2020 12:47:29 GMT</lastBuildDate><item><title><![CDATA[Linked List]]></title><description><![CDATA[Linked List]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/linked_list/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/linked_list/</guid><pubDate>Thu, 19 Dec 2019 03:00:00 GMT</pubDate><content:encoded>&lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f4d6c3b2a9c92c9e64475b0407212799/ee0be/linked_list.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 66.67237834132968%; position: relative; bottom: 0; left: 0; background-image: url(&amp;apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAZDCmioLh//EABgQAAIDAAAAAAAAAAAAAAAAAAEDAAIR/9oACAEBAAEFAhKjQiuqmxTCKf/EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AVf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFH/8QAGhAAAQUBAAAAAAAAAAAAAAAAAAECEBEhIv/aAAgBAQAGPwId0Jk0f//EABsQAAMBAAMBAAAAAAAAAAAAAAERIQAQQVFx/9oACAEBAAE/IYRBIPudiDFveYa4a77Jv//aAAwDAQACAAMAAAAQMC//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAj/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QY//EAB0QAQACAgIDAAAAAAAAAAAAAAEAESExQXFRYcH/2gAIAQEAAT8QQABwagEsMdusyJ2ydwXHqBAPEHi6FVNfJ//Z&amp;apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -156,271 +156,199 @@
 
     &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[AI! 막막해 하는 당신에게]]></title><description><![CDATA[9 skills developers need to have.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</guid><pubDate>Fri, 13 Dec 2019 03:00:00 GMT</pubDate><content:encoded>&lt;!-- &lt;img src=&quot;../../static/media/devg_junior.jpg&quot;&gt; --&gt;
-&lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/36429510-1d6f-11ea-8889-c55a8eb206d3/-2019-12-13-3.09.45.png&quot; alt=&quot;스크린샷 2019-12-13 오후 3.09.45.png&quot;&gt;&lt;/p&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[성장을 바라는 웹 프론트엔드 개발자를 위한 제언]]></title><description><![CDATA[Suggestions for Web FrontEnd Developers who want to grow.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/suggestions_for_web_frontend_developers_who_want_to_grow/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/suggestions_for_web_frontend_developers_who_want_to_grow/</guid><pubDate>Fri, 13 Dec 2019 05:00:00 GMT</pubDate><content:encoded>&lt;!-- &lt;img src=&quot;../../static/media/devg_junior.jpg&quot;&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/002f32d0-1d6f-11ea-8889-c55a8eb206d3/-2019-12-13-3.08.15.png&quot; alt=&quot;스크린샷 2019-12-13 오후 3.08.15.png&quot;&gt;&lt;/p&gt;
+&lt;h5 id=&quot;q-성장해야만-한다-성장해야만-할까&quot;&gt;&lt;a href=&quot;#q-%EC%84%B1%EC%9E%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%9C%EB%8B%A4-%EC%84%B1%EC%9E%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%A0%EA%B9%8C&quot; aria-label=&quot;q 성장해야만 한다 성장해야만 할까 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Q. 성장해야만 한다! 성장해야만 할까?&lt;/h5&gt;
+&lt;h5 id=&quot;a-성장이-뭐지-계속-성장해야하는가&quot;&gt;&lt;a href=&quot;#a-%EC%84%B1%EC%9E%A5%EC%9D%B4-%EB%AD%90%EC%A7%80-%EA%B3%84%EC%86%8D-%EC%84%B1%EC%9E%A5%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94%EA%B0%80&quot; aria-label=&quot;a 성장이 뭐지 계속 성장해야하는가 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;A. 성장이 뭐지? 계속 성장해야하는가?&lt;/h5&gt;
 &lt;blockquote&gt;
-&lt;h1 id=&quot;hard-skills&quot;&gt;&lt;a href=&quot;#hard-skills&quot; aria-label=&quot;hard skills permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hard Skills&lt;/h1&gt;
+&lt;h2 id=&quot;성장을-바라보는-두-가지-시선&quot;&gt;&lt;a href=&quot;#%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%8B%9C%EC%84%A0&quot; aria-label=&quot;성장을 바라보는 두 가지 시선 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;성장을 바라보는 두 가지 시선&lt;/h2&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;1-basic-knowledge&quot;&gt;&lt;a href=&quot;#1-basic-knowledge&quot; aria-label=&quot;1 basic knowledge permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Basic Knowledge&lt;/h3&gt;
-&lt;h3 id=&quot;2-understanding-for-product&quot;&gt;&lt;a href=&quot;#2-understanding-for-product&quot; aria-label=&quot;2 understanding for product permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Understanding for product&lt;/h3&gt;
-&lt;p&gt;내가 맛있어야 남도 맛있다.
-자기가 좋아하는 것을 만드는 것. 남이 좋아하는 것을 만드는 것. 돈을 벌기 위해 만드는 것.&lt;/p&gt;
-&lt;h3 id=&quot;3-develop-cycle&quot;&gt;&lt;a href=&quot;#3-develop-cycle&quot; aria-label=&quot;3 develop cycle permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Develop Cycle&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Requirements &amp;#x26; Analysis&lt;/li&gt;
-&lt;li&gt;Design &amp;#x26; Modeling&lt;/li&gt;
-&lt;li&gt;Implementation&lt;/li&gt;
-&lt;li&gt;Test/Realease&lt;/li&gt;
-&lt;li&gt;Feedback/Update&lt;/li&gt;
+&lt;li&gt;내가 생각하는 성장&lt;/li&gt;
+&lt;li&gt;내가 &lt;strong&gt;상상하는&lt;/strong&gt; 성장&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;1:1:1:1:1 의 비율을 가져간다는 것
-책 읽기 &amp;#x26; 다른 분야 사람 만나기&lt;/p&gt;
-&lt;p&gt;[How google testes software]&lt;/p&gt;
+&lt;h4 id=&quot;상상-vs-현실&quot;&gt;&lt;a href=&quot;#%EC%83%81%EC%83%81-vs-%ED%98%84%EC%8B%A4&quot; aria-label=&quot;상상 vs 현실 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;상상 vs 현실&lt;/h4&gt;
+&lt;p&gt;상상과 현실에는 괴리가 있다.
+상상으로 이미지를 그릴 때는 ‘토니 스타크’
+현실은 ‘토니 스타크’의 차키를 받는 호텔리어.&lt;/p&gt;
+&lt;h4 id=&quot;누구나-스스로-토발즈가-아니라고-생각은-하지만&quot;&gt;&lt;a href=&quot;#%EB%88%84%EA%B5%AC%EB%82%98-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%ED%86%A0%EB%B0%9C%EC%A6%88%EA%B0%80-%EC%95%84%EB%8B%88%EB%9D%BC%EA%B3%A0-%EC%83%9D%EA%B0%81%EC%9D%80-%ED%95%98%EC%A7%80%EB%A7%8C&quot; aria-label=&quot;누구나 스스로 토발즈가 아니라고 생각은 하지만 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“누구나 스스로 토발즈가 아니라고 생각은 하지만…”&lt;/h4&gt;
+&lt;h4 id=&quot;나만의-호흡과-전략-의미있는-훈련이-필요하다&quot;&gt;&lt;a href=&quot;#%EB%82%98%EB%A7%8C%EC%9D%98-%ED%98%B8%ED%9D%A1%EA%B3%BC-%EC%A0%84%EB%9E%B5-%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94-%ED%9B%88%EB%A0%A8%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%98%EB%8B%A4&quot; aria-label=&quot;나만의 호흡과 전략 의미있는 훈련이 필요하다 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“나만의 호흡과 전략. 의미있는 훈련이 필요하다.”&lt;/h4&gt;
+&lt;p&gt;사람마다 훈련하는 방식 또는 전략이 다르다&lt;/p&gt;
+&lt;h4 id=&quot;개발자가-되는-길은-마라톤이다-조급해-하면-지는-것이다-긴-호흡을-가져라&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-%EA%B8%B8%EC%9D%80-%EB%A7%88%EB%9D%BC%ED%86%A4%EC%9D%B4%EB%8B%A4-%EC%A1%B0%EA%B8%89%ED%95%B4-%ED%95%98%EB%A9%B4-%EC%A7%80%EB%8A%94-%EA%B2%83%EC%9D%B4%EB%8B%A4-%EA%B8%B4-%ED%98%B8%ED%9D%A1%EC%9D%84-%EA%B0%80%EC%A0%B8%EB%9D%BC&quot; aria-label=&quot;개발자가 되는 길은 마라톤이다 조급해 하면 지는 것이다 긴 호흡을 가져라 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“개발자가 되는 길은 마라톤이다… 조급해 하면 지는 것이다. 긴 호흡을 가져라.”&lt;/h4&gt;
+&lt;p&gt;목표, 실행, 피드백, 충전, 목표, 실행, 피드백, 충전… 목표… (무수히 반복하는 마라톤이라고 생각, 중간에 쳐지지 않고 무너지지 않기 위해서는 충전)
+목표를 아주작게 구체적으로 세우고, 실행을 하고, 반드시 피드백을 받고(본인 말고 타인에게), 다시 새로운 목표를 세우기 전엔 반드시 충전&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;타인이 바라보는 성장&lt;/li&gt;
+&lt;li&gt;타인이 &lt;strong&gt;평가하는&lt;/strong&gt; 성장&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;성장을-위한-결심만으로는-부족하고-객관화를-위한-측정-지표를-만들자&quot;&gt;&lt;a href=&quot;#%EC%84%B1%EC%9E%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B2%B0%EC%8B%AC%EB%A7%8C%EC%9C%BC%EB%A1%9C%EB%8A%94-%EB%B6%80%EC%A1%B1%ED%95%98%EA%B3%A0-%EA%B0%9D%EA%B4%80%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B8%A1%EC%A0%95-%EC%A7%80%ED%91%9C%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%9E%90&quot; aria-label=&quot;성장을 위한 결심만으로는 부족하고 객관화를 위한 측정 지표를 만들자 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“성장을 위한 결심만으로는 부족하고 객관화를 위한 측정 지표를 만들자”&lt;/h4&gt;
+&lt;p&gt;피드백을 받는 것 중요! 정확하게 어떤 것을 피드백 받기 위함인지 구체화 시켜라.
+어떤 프레임워크를 가지고, 어플리케이션을 만드려고 하는데, 기능이 추가시켰을 때도, 문제가 발생하지 않도록 만들어야 해. &amp;#x3C;- 예시&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h1 id=&quot;soft-skills&quot;&gt;&lt;a href=&quot;#soft-skills&quot; aria-label=&quot;soft skills permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Soft Skills&lt;/h1&gt;
+&lt;h2 id=&quot;결심한-목표와-형태가-적절한가&quot;&gt;&lt;a href=&quot;#%EA%B2%B0%EC%8B%AC%ED%95%9C-%EB%AA%A9%ED%91%9C%EC%99%80-%ED%98%95%ED%83%9C%EA%B0%80-%EC%A0%81%EC%A0%88%ED%95%9C%EA%B0%80&quot; aria-label=&quot;결심한 목표와 형태가 적절한가 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“결심한 목표와 형태가 적절한가?”&lt;/h2&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;남들과 잘 지내고 소통하고,
-의견을 나누고 아이디어를 합치고,
-많은 사람들과 함께 일을 할 때 파워가 발생&lt;/p&gt;
-&lt;h3 id=&quot;4-project-management&quot;&gt;&lt;a href=&quot;#4-project-management&quot; aria-label=&quot;4 project management permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Project Management&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Why, What, How&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Triple Constraints&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Costs (Resources)&lt;/li&gt;
-&lt;li&gt;Time (Schedule)&lt;/li&gt;
-&lt;li&gt;Scope (Quality)&lt;/li&gt;
+&lt;li&gt;달성 기준은 무엇인가?&lt;/li&gt;
+&lt;li&gt;성장 목적은 무엇인가?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;5-team-management&quot;&gt;&lt;a href=&quot;#5-team-management&quot; aria-label=&quot;5 team management permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. Team Management&lt;/h3&gt;
+&lt;p&gt;내가 왜 하는지에 대한 생각을 해야한다. 성장 목적이 구체화 되어 있어야 달성 기준이 정해진다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;멘토에-대한-두-가지-생각&quot;&gt;&lt;a href=&quot;#%EB%A9%98%ED%86%A0%EC%97%90-%EB%8C%80%ED%95%9C-%EB%91%90-%EA%B0%80%EC%A7%80-%EC%83%9D%EA%B0%81&quot; aria-label=&quot;멘토에 대한 두 가지 생각 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“멘토에 대한 두 가지 생각”&lt;/h2&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Forming -&gt; Storming -&gt; Norming -&gt; Performing
-조직의 변화를 주기위해서 강요하는 순간 그 조직은 무너진다.
-관찰과 코칭이 중요하다.
-넛징(조금씩 조금씩 푸시하기, 급하면 망한다.)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;미국 조직(역량, 신뢰, 소통)&lt;/li&gt;
-&lt;li&gt;한국 조직(역량, 신뢰, 소통) + “관계” - 형님 리더십
-관계 없이도 성공할 수 있는 것이 관건&lt;/li&gt;
-&lt;li&gt;Trust &amp;#x26; Knowledg&lt;/li&gt;
+&lt;li&gt;멘토가 필요한 이유&lt;/li&gt;
+&lt;li&gt;멘토가 없어야 하는 이유&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;6-process-agilezero-bug--people&quot;&gt;&lt;a href=&quot;#6-process-agilezero-bug--people&quot; aria-label=&quot;6 process agilezero bug  people permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;6. Process (Agile,Zero-Bug) &amp;#x26; People&lt;/h3&gt;
+&lt;p&gt;본인이 멘토가 필요가 없다고 생각하는 정도가 되어야 성장을 할 수 있는 궤도에 올라간 것이다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;멘토와-가장-효과적인-학습-방법은&quot;&gt;&lt;a href=&quot;#%EB%A9%98%ED%86%A0%EC%99%80-%EA%B0%80%EC%9E%A5-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%ED%95%99%EC%8A%B5-%EB%B0%A9%EB%B2%95%EC%9D%80&quot; aria-label=&quot;멘토와 가장 효과적인 학습 방법은 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“멘토와 가장 효과적인 학습 방법은?”&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;1:1, 1:N, N:1, N:N&lt;/p&gt;
+&lt;h4 id=&quot;어떤-멘토가-나에게-도움을-주는-멘토일까&quot;&gt;&lt;a href=&quot;#%EC%96%B4%EB%96%A4-%EB%A9%98%ED%86%A0%EA%B0%80-%EB%82%98%EC%97%90%EA%B2%8C-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A3%BC%EB%8A%94-%EB%A9%98%ED%86%A0%EC%9D%BC%EA%B9%8C&quot; aria-label=&quot;어떤 멘토가 나에게 도움을 주는 멘토일까 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“어떤 멘토가 나에게 도움을 주는 멘토일까?”&lt;/h4&gt;
+&lt;p&gt;1:1 멘토링이 &lt;strong&gt;&lt;em&gt;효과는&lt;/em&gt;&lt;/strong&gt; 가장 좋은데 왜 그럴까? 코칭을 해주는 사람이 나에 대해서 많이 알아야 나를 잘 진단한다.
+핵심: 코치가 나에 대해서 잘 알고 있는가가 중요하다. 나의 부족한 점을 최대한 구체적으로 자각하고 있어야한다. 사실 나를 잘 파악하면 멘토도 필요없다.&lt;/p&gt;
+&lt;h4 id=&quot;성장에-영향을-주는-환경에-대해-생각해-봅시다&quot;&gt;&lt;a href=&quot;#%EC%84%B1%EC%9E%A5%EC%97%90-%EC%98%81%ED%96%A5%EC%9D%84-%EC%A3%BC%EB%8A%94-%ED%99%98%EA%B2%BD%EC%97%90-%EB%8C%80%ED%95%B4-%EC%83%9D%EA%B0%81%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4&quot; aria-label=&quot;성장에 영향을 주는 환경에 대해 생각해 봅시다 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“성장에 영향을 주는 환경에 대해 생각해 봅시다.”&lt;/h4&gt;
+&lt;p&gt;태도(배운다고 되는 영역이 아니다. 교정이 힘들다. 항상 내가 스스로 자기교정을 해야한다.) &gt; 동료(배움을 가장 많이 주는 것. 열린 마인드를 필요하다.) &gt; 회사 &gt; 멘토(현혹되면 안되는 것. 자기독립성을 가지는 것이 중요하다.) &gt; 기술(어떤 상황에서도 젤 중요함. 하지만 상황에 따라서 부수적인 상태가 될 가능성이 젤 높음.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;어떤걸-배워야-할까요&quot;&gt;&lt;a href=&quot;#%EC%96%B4%EB%96%A4%EA%B1%B8-%EB%B0%B0%EC%9B%8C%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94&quot; aria-label=&quot;어떤걸 배워야 할까요 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“어떤걸 배워야 할까요?”&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;나는 정말 어떤걸 배워야 하는걸까?
+지름길은 없다. 하지만 시간은 있다. 조급해하지 말아라.&lt;/p&gt;
+&lt;p&gt;목표, 실행, 피드백, 충전, 목표, 실행, 피드백, 충전… 이 마라톤을 본인 속도에 맞춰서 시간을 컨트롤 할 수 있어야 한다.
+내가 할 수 있는 것. 내가 흥미를 가지는 것.&lt;/p&gt;
+&lt;h1 id=&quot;성장-로드맵에-best-practice는-없다&quot;&gt;&lt;a href=&quot;#%EC%84%B1%EC%9E%A5-%EB%A1%9C%EB%93%9C%EB%A7%B5%EC%97%90-best-practice%EB%8A%94-%EC%97%86%EB%8B%A4&quot; aria-label=&quot;성장 로드맵에 best practice는 없다 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“성장 로드맵에 BEST PRACTICE는 없다!”&lt;/h1&gt;
+&lt;h1 id=&quot;성장은-환경에-대한-적응-그럼으로-성장해야만-한다-그러기-위해-끊임없이-질문하자-어떻게-성장할-것인가&quot;&gt;&lt;a href=&quot;#%EC%84%B1%EC%9E%A5%EC%9D%80-%ED%99%98%EA%B2%BD%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%81%EC%9D%91-%EA%B7%B8%EB%9F%BC%EC%9C%BC%EB%A1%9C-%EC%84%B1%EC%9E%A5%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%9C%EB%8B%A4-%EA%B7%B8%EB%9F%AC%EA%B8%B0-%EC%9C%84%ED%95%B4-%EB%81%8A%EC%9E%84%EC%97%86%EC%9D%B4-%EC%A7%88%EB%AC%B8%ED%95%98%EC%9E%90-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%B1%EC%9E%A5%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80&quot; aria-label=&quot;성장은 환경에 대한 적응 그럼으로 성장해야만 한다 그러기 위해 끊임없이 질문하자 어떻게 성장할 것인가 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“성장은 환경에 대한 적응. 그럼으로 성장해야만 한다. 그러기 위해 끊임없이 질문하자. 어떻게 성장할 것인가!”&lt;/h1&gt;
+&lt;p&gt;자신만의 테크 트리를 짜고, 자신의 핏에 맞는 패턴을 만드는 것이 중요하다.
+혼자 성장할 수 있는 상태를 만드는 것!!!
+내가 배울 것들을 인지하고 목표를 설정하고 사이클을 돌리고 피드백을 돌리고… 이것을 행할 수 있는 상태!
+홀로서기 할 수 있는 상태! 이것이 성장의 전제이다.&lt;/p&gt;
+&lt;p&gt;개인프로젝트 아이디어
+내가 써보고 싶은 것이나, 주변을 둘러봐서 남들이 불편해하는 것을 찾으면 좋을 것이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[AI! 막막해 하는 당신에게]]></title><description><![CDATA[AI! To someone who don't know what to do.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/ai_to_someone_who_do_not_know_what_to_do/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/ai_to_someone_who_do_not_know_what_to_do/</guid><pubDate>Fri, 13 Dec 2019 04:00:00 GMT</pubDate><content:encoded>&lt;!-- &lt;img src=&quot;../../static/media/devg_junior.jpg&quot;&gt; --&gt;
+&lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/40483f80-1d4f-11ea-838f-13c54cb6b9e0/-2019-12-13-11.20.54.png&quot; alt=&quot;스크린샷 2019-12-13 오전 11.20.54.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;나는 현재 어디에 있고, 5년 후, 10년 후에 무엇을 하고 있을까? 어떤 자리에서 무엇을 하고 싶은가?&lt;/p&gt;
+&lt;p&gt;직급이나 직책에 따라 움직이지 말고, 어떤게 되고 싶은가가 아니라, 어떤 일을 더 많이 더 커버할 수 있을까를 생각해보자.&lt;/p&gt;
+&lt;h1 id=&quot;ai란-무엇일까요&quot;&gt;&lt;a href=&quot;#ai%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94&quot; aria-label=&quot;ai란 무엇일까요 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;AI란 무엇일까요?&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;프로세스의 목적 2가지
-어떤 일을 잘하기 위해서 만드는 것이 아니라 실패하지 않기 위해서 만드는 것이다.
-프로세스를 잘 갖추고, 그 자체를 개선한다. 체계화 후에 옵티마이즈를 한다.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PMMM(Project Management Maturity Model)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Initial = Common Language&lt;/li&gt;
-&lt;li&gt;Repeatable = Common Process&lt;/li&gt;
-&lt;li&gt;Defined = Singular Methodology&lt;/li&gt;
-&lt;li&gt;Managed = Benchmarking&lt;/li&gt;
-&lt;li&gt;Optimized = Continuous Improvement ex) cocacola, 3M (저 회사가 대체 뭐하는 회사지 할 만큼 끊임없는 변화가 이루어짐)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;다양한 타입의 사람들
-why type “비즈니스에 신경쓰는 경우”
-what type “제품에 신경쓰는 경우”
-how type “기술에 신경쓰는 경우”
-what if type “또라이: 또라이라고 무시하지말고 잘 데리고 있기.”&lt;/p&gt;
-&lt;p&gt;[Debugging the development process]
-[Teach What you know]
-[I.M. WRIGHT’S “HARD CODE”]&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;4차 산업혁명: 현재 진행형&lt;/li&gt;
+&lt;li&gt;사람에게 좋은 효과를 주거나, 에이아이를 통해서 사람을 대신할 수 있기 때문이다.&lt;/li&gt;
+&lt;li&gt;단순하게 이는 Tools라고 볼 수 있다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;h1 id=&quot;business-skill&quot;&gt;&lt;a href=&quot;#business-skill&quot; aria-label=&quot;business skill permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Business Skill&lt;/h1&gt;
+&lt;h2 id=&quot;equipment-1-무기&quot;&gt;&lt;a href=&quot;#equipment-1-%EB%AC%B4%EA%B8%B0&quot; aria-label=&quot;equipment 1 무기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Equipment 1 (무기)&lt;/h2&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;7-hr-system&quot;&gt;&lt;a href=&quot;#7-hr-system&quot; aria-label=&quot;7 hr system permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;7. HR system&lt;/h3&gt;
+&lt;h4 id=&quot;programming-language&quot;&gt;&lt;a href=&quot;#programming-language&quot; aria-label=&quot;programming language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Programming Language&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Hiring&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;내가 왜 이 회사를 선택했는가&lt;/li&gt;
-&lt;li&gt;왜 당신이 그 회사에 적합한지&lt;/li&gt;
-&lt;li&gt;당신은 이 회사에 와서 무엇을 할 수 있는가&lt;/li&gt;
+&lt;li&gt;c/c++&lt;/li&gt;
+&lt;li&gt;python&lt;/li&gt;
+&lt;li&gt;pytorch (facebook)&lt;/li&gt;
+&lt;li&gt;tensorflow (google)
+…
++alpha&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;채용의 목표&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;잘하는 사람을 뽑는게 아니라 못하는 사람을 거르는 것이다&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3가지 포인트&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;똑똑함(빠르게 배우는 사람)&lt;/li&gt;
-&lt;li&gt;부지런함&lt;/li&gt;
-&lt;li&gt;착함&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Performance Reviews&lt;/li&gt;
-&lt;li&gt;Title (engineering)
-시니어와 리드의 차이는…
-시니어는 해본 일을 잘하고 리드는 안해본 일도 잘하는 것.
-남들이 안해본 그 영역에서 잘해야 클 수 있다!&lt;/li&gt;
-&lt;li&gt;Rewards&lt;/li&gt;
-&lt;li&gt;eduacation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;8-사업&quot;&gt;&lt;a href=&quot;#8-%EC%82%AC%EC%97%85&quot; aria-label=&quot;8 사업 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;8. 사업&lt;/h3&gt;
-&lt;h3 id=&quot;9-vision-goals-and-culture&quot;&gt;&lt;a href=&quot;#9-vision-goals-and-culture&quot; aria-label=&quot;9 vision goals and culture permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;9. vision, goals, and culture&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;for company&lt;/li&gt;
-&lt;li&gt;for team&lt;/li&gt;
-&lt;li&gt;for you
-&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/f8d22770-1dc0-11ea-96df-8fe1f918c981/-2019-12-14-12.54.55.png&quot; alt=&quot;스크린샷 2019-12-14 오전 12.54.55.png&quot;&gt;
-&lt;strong&gt;나는 세상을 강한자와 약한자,
-혹은 성공이나 실패를 얻은 사람으로나누지 않는다.
-내가 나누는 세상은 배우는 자와 배우지 않는 자로 구성된다.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&quot;자기관리는-시간관리다-&quot;&gt;&lt;a href=&quot;#%EC%9E%90%EA%B8%B0%EA%B4%80%EB%A6%AC%EB%8A%94-%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC%EB%8B%A4-&quot; aria-label=&quot;자기관리는 시간관리다  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;자기관리는 시간관리다 !&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;돈을 쓰는데는 3가지 = 시간을 쓰는데는 3가지&lt;/li&gt;
-&lt;li&gt;spend&lt;/li&gt;
-&lt;li&gt;waste : 줄이고 줄이고 줄여서 0퍼센트를 만들어라&lt;/li&gt;
-&lt;li&gt;invest : 20대에는 20퍼센트부터 시작해서 쭉쭉쭉 올려라&lt;/li&gt;
-&lt;li&gt;일주일간 본인이 쓴 시간을 정리해봐라&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[성장을 바라는 웹 프론트엔드 개발자를 위한 제언]]></title><description><![CDATA[9 skills developers need to have.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</guid><pubDate>Fri, 13 Dec 2019 03:00:00 GMT</pubDate><content:encoded>&lt;!-- &lt;img src=&quot;../../static/media/devg_junior.jpg&quot;&gt; --&gt;
-&lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/36429510-1d6f-11ea-8889-c55a8eb206d3/-2019-12-13-3.09.45.png&quot; alt=&quot;스크린샷 2019-12-13 오후 3.09.45.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;언어를 잘 안다는 것, 남의 코드를 보고 최소한 80퍼센트는 안다고 하는 것.
+기본을 알되, 굉장히 잘 알아야 한다. 코드리뷰를 꼭 해라.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h1 id=&quot;hard-skills&quot;&gt;&lt;a href=&quot;#hard-skills&quot; aria-label=&quot;hard skills permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hard Skills&lt;/h1&gt;
+&lt;h2 id=&quot;equipment-2-무기&quot;&gt;&lt;a href=&quot;#equipment-2-%EB%AC%B4%EA%B8%B0&quot; aria-label=&quot;equipment 2 무기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Equipment 2 (무기)&lt;/h2&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;1-basic-knowledge&quot;&gt;&lt;a href=&quot;#1-basic-knowledge&quot; aria-label=&quot;1 basic knowledge permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;1. Basic Knowledge&lt;/h3&gt;
-&lt;h3 id=&quot;2-understanding-for-product&quot;&gt;&lt;a href=&quot;#2-understanding-for-product&quot; aria-label=&quot;2 understanding for product permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2. Understanding for product&lt;/h3&gt;
-&lt;p&gt;내가 맛있어야 남도 맛있다.
-자기가 좋아하는 것을 만드는 것. 남이 좋아하는 것을 만드는 것. 돈을 벌기 위해 만드는 것.&lt;/p&gt;
-&lt;h3 id=&quot;3-develop-cycle&quot;&gt;&lt;a href=&quot;#3-develop-cycle&quot; aria-label=&quot;3 develop cycle permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;3. Develop Cycle&lt;/h3&gt;
+&lt;h4 id=&quot;data-structure&quot;&gt;&lt;a href=&quot;#data-structure&quot; aria-label=&quot;data structure permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Data Structure&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Requirements &amp;#x26; Analysis&lt;/li&gt;
-&lt;li&gt;Design &amp;#x26; Modeling&lt;/li&gt;
-&lt;li&gt;Implementation&lt;/li&gt;
-&lt;li&gt;Test/Realease&lt;/li&gt;
-&lt;li&gt;Feedback/Update&lt;/li&gt;
+&lt;li&gt;array, matrix&lt;/li&gt;
+&lt;li&gt;linked list&lt;/li&gt;
+&lt;li&gt;stack queue&lt;/li&gt;
+&lt;li&gt;hash
+…&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;1:1:1:1:1 의 비율을 가져간다는 것
-책 읽기 &amp;#x26; 다른 분야 사람 만나기&lt;/p&gt;
-&lt;p&gt;[How google testes software]&lt;/p&gt;
+&lt;p&gt;얼마만큼 효율적으로 쓸 수 있는지 본인의 관리 필요&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;h1 id=&quot;soft-skills&quot;&gt;&lt;a href=&quot;#soft-skills&quot; aria-label=&quot;soft skills permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Soft Skills&lt;/h1&gt;
+&lt;h2 id=&quot;strategy-1-전략&quot;&gt;&lt;a href=&quot;#strategy-1-%EC%A0%84%EB%9E%B5&quot; aria-label=&quot;strategy 1 전략 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Strategy 1 (전략)&lt;/h2&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;남들과 잘 지내고 소통하고,
-의견을 나누고 아이디어를 합치고,
-많은 사람들과 함께 일을 할 때 파워가 발생&lt;/p&gt;
-&lt;h3 id=&quot;4-project-management&quot;&gt;&lt;a href=&quot;#4-project-management&quot; aria-label=&quot;4 project management permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;4. Project Management&lt;/h3&gt;
+&lt;h4 id=&quot;algorithm&quot;&gt;&lt;a href=&quot;#algorithm&quot; aria-label=&quot;algorithm permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Algorithm&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Why, What, How&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Triple Constraints&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Costs (Resources)&lt;/li&gt;
-&lt;li&gt;Time (Schedule)&lt;/li&gt;
-&lt;li&gt;Scope (Quality)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;5-team-management&quot;&gt;&lt;a href=&quot;#5-team-management&quot; aria-label=&quot;5 team management permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;5. Team Management&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Forming -&gt; Storming -&gt; Norming -&gt; Performing
-조직의 변화를 주기위해서 강요하는 순간 그 조직은 무너진다.
-관찰과 코칭이 중요하다.
-넛징(조금씩 조금씩 푸시하기, 급하면 망한다.)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;미국 조직(역량, 신뢰, 소통)&lt;/li&gt;
-&lt;li&gt;한국 조직(역량, 신뢰, 소통) + “관계” - 형님 리더십
-관계 없이도 성공할 수 있는 것이 관건&lt;/li&gt;
-&lt;li&gt;Trust &amp;#x26; Knowledg&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;6-process-agilezero-bug--people&quot;&gt;&lt;a href=&quot;#6-process-agilezero-bug--people&quot; aria-label=&quot;6 process agilezero bug  people permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;6. Process (Agile,Zero-Bug) &amp;#x26; People&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;프로세스의 목적 2가지
-어떤 일을 잘하기 위해서 만드는 것이 아니라 실패하지 않기 위해서 만드는 것이다.
-프로세스를 잘 갖추고, 그 자체를 개선한다. 체계화 후에 옵티마이즈를 한다.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;PMMM(Project Management Maturity Model)&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Initial = Common Language&lt;/li&gt;
-&lt;li&gt;Repeatable = Common Process&lt;/li&gt;
-&lt;li&gt;Defined = Singular Methodology&lt;/li&gt;
-&lt;li&gt;Managed = Benchmarking&lt;/li&gt;
-&lt;li&gt;Optimized = Continuous Improvement ex) cocacola, 3M (저 회사가 대체 뭐하는 회사지 할 만큼 끊임없는 변화가 이루어짐)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;다양한 타입의 사람들
-why type “비즈니스에 신경쓰는 경우”
-what type “제품에 신경쓰는 경우”
-how type “기술에 신경쓰는 경우”
-what if type “또라이: 또라이라고 무시하지말고 잘 데리고 있기.”&lt;/p&gt;
-&lt;p&gt;[Debugging the development process]
-[Teach What you know]
-[I.M. WRIGHT’S “HARD CODE”]&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;어느 상황에 어떻게 대처하느냐에 따라 달라진다.&lt;/li&gt;
+&lt;li&gt;외우는 것이 아니다 이해하라.&lt;/li&gt;
+&lt;li&gt;잘 사용하는 것이 중요하다 이는 알고있는 것을 상황에 맞게 적재적소에 쓰는 것이 중요하다.&lt;/li&gt;
+&lt;li&gt;남의 코드를 볼 때, 이 사람의 이 코드는 어떤 기능을 가지고 있으며 어떻게 작동하는지 분석하라.&lt;/li&gt;
+&lt;li&gt;본인만의 패키지, 라이브러리를 만들어 쓰는 것도 좋은 방법이다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;h1 id=&quot;business-skill&quot;&gt;&lt;a href=&quot;#business-skill&quot; aria-label=&quot;business skill permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Business Skill&lt;/h1&gt;
+&lt;h2 id=&quot;strategy-2-전략&quot;&gt;&lt;a href=&quot;#strategy-2-%EC%A0%84%EB%9E%B5&quot; aria-label=&quot;strategy 2 전략 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Strategy 2 (전략)&lt;/h2&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&quot;7-hr-system&quot;&gt;&lt;a href=&quot;#7-hr-system&quot; aria-label=&quot;7 hr system permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;7. HR system&lt;/h3&gt;
+&lt;h4 id=&quot;mathmatics-101&quot;&gt;&lt;a href=&quot;#mathmatics-101&quot; aria-label=&quot;mathmatics 101 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Mathmatics 101&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;linear algebra&lt;/li&gt;
+&lt;li&gt;probability&lt;/li&gt;
+&lt;li&gt;geometry
+…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;physics-101&quot;&gt;&lt;a href=&quot;#physics-101&quot; aria-label=&quot;physics 101 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Physics 101&lt;/h4&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;speciality-1&quot;&gt;&lt;a href=&quot;#speciality-1&quot; aria-label=&quot;speciality 1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Speciality 1&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;책-읽기&quot;&gt;&lt;a href=&quot;#%EC%B1%85-%EC%9D%BD%EA%B8%B0&quot; aria-label=&quot;책 읽기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“책 읽기”&lt;/h4&gt;
+&lt;p&gt;[Pattern Classification] 주황색
+[Pattern Recognition and Machine learning - Christopher M. Bishop] 갈색
+[Multiple View Geometry] 파란색&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;speciality-2&quot;&gt;&lt;a href=&quot;#speciality-2&quot; aria-label=&quot;speciality 2 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Speciality 2&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;컨퍼런스나-저널&quot;&gt;&lt;a href=&quot;#%EC%BB%A8%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%82%98-%EC%A0%80%EB%84%90&quot; aria-label=&quot;컨퍼런스나 저널 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“컨퍼런스나 저널”&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&quot;speciality-3&quot;&gt;&lt;a href=&quot;#speciality-3&quot; aria-label=&quot;speciality 3 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Speciality 3&lt;/h2&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;insight통찰력&quot;&gt;&lt;a href=&quot;#insight%ED%86%B5%EC%B0%B0%EB%A0%A5&quot; aria-label=&quot;insight통찰력 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Insight(통찰력)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;예리한 관찰력으로 사물을 꿰뚫어 보는 것&lt;/li&gt;
+&lt;li&gt;들여다보기&lt;/li&gt;
+&lt;li&gt;단순하게 한 물체를 굉장히 심도있게 보기&lt;/li&gt;
+&lt;li&gt;어떠한 코드가 존재한다면 어떻게 해석을 해야하는가&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h5 id=&quot;curriculum-vitae&quot;&gt;&lt;a href=&quot;#curriculum-vitae&quot; aria-label=&quot;curriculum vitae permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Curriculum Vitae&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Your life is precious&lt;/li&gt;
+&lt;li&gt;Set target (What would you sell?)&lt;/li&gt;
+&lt;li&gt;Never lie or exaggerate&lt;/li&gt;
+&lt;li&gt;Clearly what you did (The developer knows logically what he did.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&quot;project-in-interview&quot;&gt;&lt;a href=&quot;#project-in-interview&quot; aria-label=&quot;project in interview permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Project in Interview&lt;/h5&gt;
+&lt;p&gt;나는 프로젝트A를 했어요. 안 좋아.
+프로젝트 A의 장점과 단점과 가치를 얘기할 수 있어야 한다. 좋아.
+프로젝트 A에는 각각의 펑션이 나눠져있고, 그 역할을 얘기하고, 어떤 펑션을 다뤘고, 어떤 이슈가 있었고, 어떻게 해결했고를 말하라. 아주 좋아.&lt;/p&gt;
+&lt;p&gt;이는 본인의 세일즈 포인트를 강화할 수 있다&lt;/p&gt;
+&lt;h5 id=&quot;no-projects-are-a-failure-there-are-only-projects-that-are-not-finished&quot;&gt;&lt;a href=&quot;#no-projects-are-a-failure-there-are-only-projects-that-are-not-finished&quot; aria-label=&quot;no projects are a failure there are only projects that are not finished permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;“No projects are a failure. There are only projects that are not finished.”&lt;/h5&gt;
+&lt;p&gt;무슨 일이든 끝을 보세요.
+그게 끝이 아니다. 그것으로부터 얻은 것을 업데이트 하라.&lt;/p&gt;
+&lt;h5 id=&quot;time--work&quot;&gt;&lt;a href=&quot;#time--work&quot; aria-label=&quot;time  work permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Time / Work&lt;/h5&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Hiring&lt;/p&gt;
+&lt;p&gt;Time Management&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;내가 왜 이 회사를 선택했는가&lt;/li&gt;
-&lt;li&gt;왜 당신이 그 회사에 적합한지&lt;/li&gt;
-&lt;li&gt;당신은 이 회사에 와서 무엇을 할 수 있는가&lt;/li&gt;
+&lt;li&gt;30minutes (개인차)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;채용의 목표&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;잘하는 사람을 뽑는게 아니라 못하는 사람을 거르는 것이다&lt;/li&gt;
+&lt;li&gt;Work Management
+해야 할 것(just need time)
+할 수 있는 것(need time and ability)
+하지 말아야 할 것&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;3가지 포인트&lt;/p&gt;
+&lt;h5 id=&quot;reading&quot;&gt;&lt;a href=&quot;#reading&quot; aria-label=&quot;reading permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Reading&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;똑똑함(빠르게 배우는 사람)&lt;/li&gt;
-&lt;li&gt;부지런함&lt;/li&gt;
-&lt;li&gt;착함&lt;/li&gt;
+&lt;li&gt;책은 도끼다&lt;/li&gt;
+&lt;li&gt;사피엔스&lt;/li&gt;
+&lt;li&gt;콰이어트&lt;/li&gt;
+&lt;li&gt;총,균,쇠&lt;/li&gt;
+&lt;li&gt;열두 발자국
+…
+독서는 감수성 뿐만 아니라 통찰력을 키울 수 있다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Performance Reviews&lt;/li&gt;
-&lt;li&gt;Title (engineering)
-시니어와 리드의 차이는…
-시니어는 해본 일을 잘하고 리드는 안해본 일도 잘하는 것.
-남들이 안해본 그 영역에서 잘해야 클 수 있다!&lt;/li&gt;
-&lt;li&gt;Rewards&lt;/li&gt;
-&lt;li&gt;eduacation&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;8-사업&quot;&gt;&lt;a href=&quot;#8-%EC%82%AC%EC%97%85&quot; aria-label=&quot;8 사업 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;8. 사업&lt;/h3&gt;
-&lt;h3 id=&quot;9-vision-goals-and-culture&quot;&gt;&lt;a href=&quot;#9-vision-goals-and-culture&quot; aria-label=&quot;9 vision goals and culture permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;9. vision, goals, and culture&lt;/h3&gt;
+&lt;h5 id=&quot;finish&quot;&gt;&lt;a href=&quot;#finish&quot; aria-label=&quot;finish permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Finish&lt;/h5&gt;
 &lt;ul&gt;
-&lt;li&gt;for company&lt;/li&gt;
-&lt;li&gt;for team&lt;/li&gt;
-&lt;li&gt;for you
-&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/f8d22770-1dc0-11ea-96df-8fe1f918c981/-2019-12-14-12.54.55.png&quot; alt=&quot;스크린샷 2019-12-14 오전 12.54.55.png&quot;&gt;
-&lt;strong&gt;나는 세상을 강한자와 약한자,
-혹은 성공이나 실패를 얻은 사람으로나누지 않는다.
-내가 나누는 세상은 배우는 자와 배우지 않는 자로 구성된다.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;사소한 것에 목숨을 걸지 말 것&lt;/li&gt;
+&lt;li&gt;자신감은 없어도 자존감을 가득&lt;/li&gt;
+&lt;li&gt;내 자신에게 약속한 것은 꼭 지킬 것&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;자기관리는-시간관리다-&quot;&gt;&lt;a href=&quot;#%EC%9E%90%EA%B8%B0%EA%B4%80%EB%A6%AC%EB%8A%94-%EC%8B%9C%EA%B0%84%EA%B4%80%EB%A6%AC%EB%8B%A4-&quot; aria-label=&quot;자기관리는 시간관리다  permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;자기관리는 시간관리다 !&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;돈을 쓰는데는 3가지 = 시간을 쓰는데는 3가지&lt;/li&gt;
-&lt;li&gt;spend&lt;/li&gt;
-&lt;li&gt;waste : 줄이고 줄이고 줄여서 0퍼센트를 만들어라&lt;/li&gt;
-&lt;li&gt;invest : 20대에는 20퍼센트부터 시작해서 쭉쭉쭉 올려라&lt;/li&gt;
-&lt;li&gt;일주일간 본인이 쓴 시간을 정리해봐라&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[개발자가 갖추어야 할 9가지 기술]]></title><description><![CDATA[9 skills developers need to have.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</guid><pubDate>Fri, 13 Dec 2019 03:00:00 GMT</pubDate><content:encoded>&lt;!-- &lt;img src=&quot;../../static/media/devg_junior.jpg&quot;&gt; --&gt;
+&lt;h1 id=&quot;so-what-would-you-sell&quot;&gt;&lt;a href=&quot;#so-what-would-you-sell&quot; aria-label=&quot;so what would you sell permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;So. What would you sell?&lt;/h1&gt;</content:encoded></item><item><title><![CDATA[개발자가 갖추어야 할 9가지 기술]]></title><description><![CDATA[9 skills developers need to have.]]></description><link>https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</link><guid isPermaLink="false">https://github.com/ChungsikPark/ChungsikPark.github.io.git/posts/9_skills_developers_need_to_have/</guid><pubDate>Fri, 13 Dec 2019 03:00:00 GMT</pubDate><content:encoded>&lt;!-- &lt;img src=&quot;../../static/media/devg_junior.jpg&quot;&gt; --&gt;
 &lt;p&gt;&lt;img src=&quot;https://images.velog.io/post-images/qkrcndtlr123/36429510-1d6f-11ea-8889-c55a8eb206d3/-2019-12-13-3.09.45.png&quot; alt=&quot;스크린샷 2019-12-13 오후 3.09.45.png&quot;&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;h1 id=&quot;hard-skills&quot;&gt;&lt;a href=&quot;#hard-skills&quot; aria-label=&quot;hard skills permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hard Skills&lt;/h1&gt;
