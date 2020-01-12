@@ -8,7 +8,7 @@ category: "Data Structure"
 tags:
   - "Data Structure"
 description: Linked List
-socialImage: "../../static/media//linked_list.jpg"
+socialImage: "../../static/media/linked_list.jpg"
 ---
 
 <img src="../../static/media/linked_list.jpg">
