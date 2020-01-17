@@ -1,9 +1,9 @@
 ---
-title: CSS Grid
+title: CSS Grid - Template Rows and Columns
 date: "2019-12-26T12:00:00+09:00"
 template: "post"
 draft: false
-slug: "/posts/css_grid/"
+slug: "/posts/css_grid_template_rows_and_columns/"
 category: "HTML & CSS"
 tags:
   - "HTML"
@@ -11,7 +11,7 @@ tags:
   - "grid gap"
   - "grid template columns"
   - "grid template rows"
-description: CSS Grid
+description: grid-template-rows & grid-template-columns
 socialImage: "../../static/media/css_grid_one.jpg"
 ---
 
