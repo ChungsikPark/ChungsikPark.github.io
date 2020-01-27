@@ -154,6 +154,15 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/posts/git_commands/
+  Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
+  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
+  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </app-9d429180e6545a514ad0.js>; rel=preload; as=script
+  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
+  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
 /posts/return_the_smallest_sum_of_elements_along_the_way/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
@@ -163,7 +172,16 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/git_commands/
+/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/
+  Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
+  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
+  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
+  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
+  Link: </app-9d429180e6545a514ad0.js>; rel=preload; as=script
+  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
+  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
+/posts/synchronous_and_asynchronous/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
@@ -208,16 +226,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/
-  Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
-  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
-  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
-  Link: </app-9d429180e6545a514ad0.js>; rel=preload; as=script
-  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
-  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/synchronous_and_asynchronous/
+/posts/flexible_box/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
@@ -227,15 +236,6 @@
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
 /posts/ai_to_someone_who_do_not_know_what_to_do/
-  Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
-  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
-  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
-  Link: </netlify-identity-widget-e37a35e339457e643f79.js>; rel=preload; as=script
-  Link: </app-9d429180e6545a514ad0.js>; rel=preload; as=script
-  Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
-  Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/flexible_box/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
@@ -262,7 +262,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/suggestions_for_web_frontend_developers_who_want_to_grow/
+/posts/develop_life_tips_that_i_would_have_been_nice_to_know_in_advance/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
@@ -271,7 +271,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/develop_life_tips_that_i_would_have_been_nice_to_know_in_advance/
+/posts/suggestions_for_web_frontend_developers_who_want_to_grow/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
@@ -289,7 +289,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/css_grid_auto_rows_and_columns/
+/posts/linked_list/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
@@ -307,7 +307,7 @@
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-e13d0e195f435ffc9e8a.js>; rel=preload; as=script
-/posts/linked_list/
+/posts/css_grid_auto_rows_and_columns/
   Link: </webpack-runtime-7057e46d02ab3b2fe065.js>; rel=preload; as=script
   Link: </styles-70fcddd426196ea513a1.js>; rel=preload; as=script
   Link: </commons-eb91ca3b862c408121e0.js>; rel=preload; as=script
