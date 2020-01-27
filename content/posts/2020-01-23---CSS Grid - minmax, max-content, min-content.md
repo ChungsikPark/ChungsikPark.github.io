@@ -1,5 +1,5 @@
 ---
-title: CSS Grid - minmax and max-content and min-content
+title: CSS Grid - minmax, max-content, min-content
 date: "2020-01-23T12:00:00+09:00"
 template: "post"
 draft: false
