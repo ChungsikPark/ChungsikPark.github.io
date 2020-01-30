@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/return_inverted_integer/"
 category: "Algorithm"
 tags:
-  - "JAVASCRIPT"
-  - "ALGORITHM"
+  - "javascript"
+  - "algorithm"
 description: The function 'reverse' takes an integer number. Invert the number and return it.
 socialImage: "../../static/media/number_block.jpeg"
 ---

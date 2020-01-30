@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/git_commands/"
 category: "Git"
 tags:
-  - "GIT"
-  - "GITHUB"
+  - "git"
+  - "github"
 description: A list of my commonly used Git commands
 socialImage: "../../static/media/macbook_showing_programming_language.jpg"
 ---

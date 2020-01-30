@@ -6,7 +6,7 @@ draft: false
 slug: "/posts/function_object/"
 category: "Javascript"
 tags:
-  - "JAVASCRIPT"
+  - "javascript"
 description: Function is Object. (Subroutine, Clousre, Parser)
 socialImage: "../../static/media/function_object.jpg"
 ---

@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/return_whether_the_flipped_shape_is_the_same_as_num/"
 category: "Algorithm"
 tags:
-  - "JAVASCRIPT"
-  - "ALGORITHM"
+  - "javascript"
+  - "algorithm"
 description: The function 'samereverse' takes num of type Number. Return whether the flipped shape is the same as num.
 socialImage: "../../static/media/b21.jpeg"
 ---

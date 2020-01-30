@@ -6,12 +6,9 @@ draft: false
 slug: "/posts/css_grid_justify_items_and_align_items_and_place_items/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
-  - "grid template columns"
-  - "justify-items"
-  - "align-items"
-  - "place-items"
+  - "html"
+  - "css"
+  - "grid"
 description: justify-items, align-items, place-items
 socialImage: "../../static/media/css_grid_one.jpg"
 ---

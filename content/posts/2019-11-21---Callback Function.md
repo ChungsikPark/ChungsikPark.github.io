@@ -6,7 +6,7 @@ draft: false
 slug: "/posts/callback_function/"
 category: "Javascript"
 tags:
-  - "JAVASCRIPT"
+  - "javascript"
 description: Callback Function
 socialImage: "../../static/media/hell.jpg"
 ---

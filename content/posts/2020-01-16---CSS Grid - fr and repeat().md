@@ -6,11 +6,9 @@ draft: false
 slug: "/posts/css_grid_fr_and_repeat/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
-  - "grid template columns"
-  - "fr"
-  - "repeat"
+  - "html"
+  - "css"
+  - "grid"
 description: fr and repeat()
 socialImage: "../../static/media/css_grid_one.jpg"
 ---

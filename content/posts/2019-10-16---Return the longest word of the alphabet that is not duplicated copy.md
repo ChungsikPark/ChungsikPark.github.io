@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/return_the_longest_word_of_the_alphabet's_length_that_is_not_duplicated/"
 category: "Algorithm"
 tags:
-  - "JAVASCRIPT"
-  - "ALGORITHM"
+  - "javascript"
+  - "algorithm"
 description: The function 'getLengthOfStr' takes str argument of type String. Return the longest word of the alphabet's length that is not duplicated.
 socialImage: "../../static/media/love_is.jpeg"
 ---

@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/return_a_common_prefix/"
 category: "Algorithm"
 tags:
-  - "JAVASCRIPT"
-  - "ALGORITHM"
+  - "javascript"
+  - "algorithm"
 description: The function 'getPrefix' takes strs, an array of words. Return a common prefix.
 socialImage: "../../static/media/its_simple.jpeg"
 ---

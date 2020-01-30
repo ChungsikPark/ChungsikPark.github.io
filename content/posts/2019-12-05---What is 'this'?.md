@@ -6,7 +6,7 @@ draft: false
 slug: "/posts/this/"
 category: "Javascript"
 tags:
-  - "JAVASCRIPT"
+  - "javascript"
 description: What is 'this'? (with call, apply, bind, arrow function)
 socialImage: "../../static/media/this.jpg"
 ---

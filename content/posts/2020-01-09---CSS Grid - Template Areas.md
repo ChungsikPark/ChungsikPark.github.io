@@ -6,9 +6,9 @@ draft: false
 slug: "/posts/css_grid_template_areas/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
-  - "grid template areas"
+  - "html"
+  - "css"
+  - "grid"
 description: grid-template-areas
 socialImage: "../../static/media/css_grid_one.jpg"
 ---

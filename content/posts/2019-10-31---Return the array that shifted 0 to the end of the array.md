@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/return_the_array_that_shifted_0_to_the_end_of_the_array/"
 category: "Algorithm"
 tags:
-  - "JAVASCRIPT"
-  - "ALGORITHM"
+  - "javascript"
+  - "algorithm"
 description: The function 'moveZeroes' takes an arr of numbers. Return the array that shifted 0 to the end of the array.
 socialImage: "../../static/media/move_zero.jpeg"
 ---

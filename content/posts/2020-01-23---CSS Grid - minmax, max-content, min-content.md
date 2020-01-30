@@ -6,12 +6,9 @@ draft: false
 slug: "/posts/css_grid_minmax_and_max_content_and_min_content/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
-  - "grid template columns"
-  - "minmax"
-  - "max-content"
-  - "min-content"
+  - "html"
+  - "css"
+  - "grid"
 description: minmax, max-content, min-content
 socialImage: "../../static/media/css_grid_one.jpg"
 ---

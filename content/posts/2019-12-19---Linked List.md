@@ -6,7 +6,8 @@ draft: false
 slug: "/posts/linked_list/"
 category: "Data Structure"
 tags:
-  - "Data Structure"
+  - "data-structure"
+  - "linked-list"
 description: Linked List
 socialImage: "../../static/media/linked_list.jpg"
 ---

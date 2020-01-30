@@ -6,8 +6,9 @@ draft: false
 slug: "/posts/flexible_box/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
+  - "html"
+  - "css"
+  - "flex"
 description: CSS Flexible Box
 socialImage: "../../static/media/flexible_box.jpg"
 ---

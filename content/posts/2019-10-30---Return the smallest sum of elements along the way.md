@@ -6,8 +6,8 @@ draft: false
 slug: "/posts/return_the_smallest_sum_of_elements_along_the_way/"
 category: "Algorithm"
 tags:
-  - "JAVASCRIPT"
-  - "ALGORITHM"
+  - "javascript"
+  - "algorithm"
 description: The function 'minPathSum' takes m X n grid. Return the smallest sum of elements along the way.
 socialImage: "../../static/media/parking_grid.jpeg"
 ---

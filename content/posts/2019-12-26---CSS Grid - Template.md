@@ -6,11 +6,9 @@ draft: false
 slug: "/posts/css_grid_template_rows_and_columns/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
-  - "grid gap"
-  - "grid template columns"
-  - "grid template rows"
+  - "html"
+  - "css"
+  - "grid"
 description: grid-template-rows & grid-template-columns
 socialImage: "../../static/media/css_grid_one.jpg"
 ---

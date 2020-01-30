@@ -6,7 +6,9 @@ draft: false
 slug: "/posts/synchronous_and_asynchronous/"
 category: "Javascript"
 tags:
-  - "JAVASCRIPT"
+  - "javascript"
+  - "synchronous"
+  - "asynchronous"
 description: The difference between synchronous and asynchronous.
 socialImage: "../../static/media/synchronous_asynchronous.jpg"
 ---

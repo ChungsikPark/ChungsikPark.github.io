@@ -6,12 +6,9 @@ draft: false
 slug: "/posts/css_grid_justify_content_and_align_content_and_place_content/"
 category: "HTML & CSS"
 tags:
-  - "HTML"
-  - "CSS"
-  - "grid template columns"
-  - "justify-content"
-  - "align-content"
-  - "place-content"
+  - "html"
+  - "css"
+  - "grid"
 description: justify-content, align-content, place-content
 socialImage: "../../static/media/css_grid_one.jpg"
 ---
