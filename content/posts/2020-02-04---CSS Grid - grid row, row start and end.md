@@ -1,21 +1,21 @@
 ---
-title: CSS Grid - grid column, row start and end
-date: "2020-01-30T12:00:00+09:00"
+title: CSS Grid - grid row, row start and end
+date: "2020-02-04T12:00:00+09:00"
 template: "post"
 draft: false
-slug: "/posts/css_grid_grid_column_row_start_and_end/"
+slug: "/posts/css_grid_row_row_start_and_end/"
 category: "HTML & CSS"
 tags:
   - "html"
   - "css"
   - "grid"
-description: grid-column, grid-column-start, grid-column-end
+description: grid-row, grid-row-start, grid-row-end
 socialImage: "../../static/media/css_grid_one.jpg"
 ---
 
 <img src="../../static/media/css_grid_one.jpg">
 
-![grid column base.png](https://images.velog.io/post-images/qkrcndtlr123/0be582e0-4340-11ea-a592-8f3ffaf91139/grid-column-base.png)
+![grid row 2 to 5.png](https://images.velog.io/post-images/qkrcndtlr123/843cf4e0-45a1-11ea-b334-31811bbb8b80/grid-row-2-to-5.png)
 
 ```html
 <!DOCTYPE html>
@@ -43,6 +43,10 @@ socialImage: "../../static/media/css_grid_one.jpg"
       }
       .box:nth-child(odd) {
         background-color: #34495e; /* dark blue colour */
+      }
+      .box:first-child {
+        grid-row-start: 2;
+        grid-row-end: 5;
       }
     </style>
   </head>
@@ -83,7 +87,7 @@ socialImage: "../../static/media/css_grid_one.jpg"
 </html>
 ```
 
-![grid column set.png](https://images.velog.io/post-images/qkrcndtlr123/192c19f0-4340-11ea-87c0-6d5529729683/grid-column-set.png)
+![grid row 1 to 5.png](https://images.velog.io/post-images/qkrcndtlr123/8ce8f530-45a1-11ea-92d8-ed677f1568bc/grid-row-1-to-5.png)
 
 ```html
 <!DOCTYPE html>
@@ -113,7 +117,7 @@ socialImage: "../../static/media/css_grid_one.jpg"
         background-color: #34495e; /* dark blue colour */
       }
       .box:first-child {
-        grid-column: 1 / 3;
+        grid-row: 1 / 5;
       }
     </style>
   </head>
@@ -154,7 +158,7 @@ socialImage: "../../static/media/css_grid_one.jpg"
 </html>
 ```
 
-![grid column start end.png](https://images.velog.io/post-images/qkrcndtlr123/984925c0-4340-11ea-9a51-e5e168f75dd9/grid-column-start-end.png)
+![row span 3 column span 2.png](https://images.velog.io/post-images/qkrcndtlr123/95a79320-45a1-11ea-906f-37323b30885d/row-span-3-column-span-2.png)
 
 ```html
 <!DOCTYPE html>
@@ -184,8 +188,8 @@ socialImage: "../../static/media/css_grid_one.jpg"
         background-color: #34495e; /* dark blue colour */
       }
       .box:first-child {
-        grid-column-start: 1;
-        grid-column-end: 5;
+        grid-row: span 3;
+        grid-column: span 2;
       }
     </style>
   </head>
