@@ -1,6 +1,6 @@
 ---
 title: CSS Grid - Self-check Quiz
-date: "2020-02-08T12:00:00+09:00"
+date: "2020-02-09T12:00:00+09:00"
 template: "post"
 draft: false
 slug: "/posts/self_check_quiz/"
@@ -21,7 +21,7 @@ socialImage: "../../static/media/css_grid_one.jpg"
 
 #### B. Lines, cells, columns
 
-#### C. Lines, cells, rows
+#### C. Lines, cells, rosws
 
 > ## 2. What property should I use to customize the rows generated automatically?
 
@@ -84,5 +84,5 @@ socialImage: "../../static/media/css_grid_one.jpg"
 #### C. grid-gap
 
 ```
-1:A, 2:B, 3:A, 4:A, 5:B, 6:B, 7:A, 8:B, 9:C
+1:A 2:B 3:A 4:A 5:B 6:B 7:A 8:B 9:C
 ```
